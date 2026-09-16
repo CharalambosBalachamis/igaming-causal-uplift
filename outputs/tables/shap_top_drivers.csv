@@ -1,0 +1,11 @@
+Rank,Feature,Mean |SHAP| (%),Causal Dynamics
+1,PC1,1.4182,Higher Value -> Decreases Churn (Persuadable Signal)
+2,PC135,0.3883,Higher Value -> Increases Churn (Sleeping Dog Risk)
+3,PC5,0.357,Higher Value -> Increases Churn (Sleeping Dog Risk)
+4,PC14,0.3124,Higher Value -> Decreases Churn (Persuadable Signal)
+5,PC15,0.296,Higher Value -> Decreases Churn (Persuadable Signal)
+6,PC2,0.2946,Non-Linear / Mixed Dynamics
+7,PC111,0.1196,Higher Value -> Decreases Churn (Persuadable Signal)
+8,PC24,0.1018,Higher Value -> Decreases Churn (Persuadable Signal)
+9,PC36,0.0892,Higher Value -> Decreases Churn (Persuadable Signal)
+10,PC40,0.0808,Higher Value -> Increases Churn (Sleeping Dog Risk)

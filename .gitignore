@@ -1,0 +1,21 @@
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data & Heavy Output Artifacts (Keep structure, ignore local cached data)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+outputs/models/*.joblib
+
+# OS Metadata
+.DS_Store
+Thumbs.db

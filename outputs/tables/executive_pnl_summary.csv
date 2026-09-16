@@ -1,0 +1,5 @@
+Policy,Contacted,Net Retained,Cost,Net Profit,ROI (%)
+1. Do Nothing,0 (0.0%),0.0,€0.00,€0.00,0.0%
+2. Mass Outreach (100%),3569 (100.0%),11.7,"€17,845.00","€-14,913.78",-83.6%
+3. High-Risk Targeting (Top 30%),1071 (30.0%),-95.8,"€5,355.00","€-29,294.98",-547.1%
+4. Causal Uplift (X-Learner Optimal),688 (19.3%),108.3,"€3,440.00","€23,636.27",687.1%

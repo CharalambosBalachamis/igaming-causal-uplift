@@ -1,0 +1,4 @@
+Estimator,Mean CATE (%),Std CATE (%),Min CATE (Max Churn Reduction) (%),Max CATE (Worst Backfire) (%),% Persuadable (tau < -0.5%),% Sleeping Dog (tau > +0.5%)
+S-Learner,0.0,0.0,-0.0,0.0,0.0,0.0
+T-Learner,-0.5872,3.0745,-20.4246,15.1178,39.1987,38.7784
+X-Learner,-0.5788,2.7349,-19.9968,13.0945,35.5282,41.8044
