@@ -41,26 +41,7 @@ Replicating the joint potential outcome probabilities from Verhelst et al. (2023
 
 ---
 
-## Project Structure
 
-```text
-├── data/
-│   ├── raw/                    # Cached OpenML microdata (ID: 45580)
-│   └── processed/              # Stratified train/test splits
-├── outputs/
-│   ├── models/                 # Serialized model artifacts (.joblib)
-│   └── tables/                 # Benchmark CSV exports & balance audits
-├── src/
-│   ├── config.py               # Paths and economic constants
-│   ├── data_loader.py          # Ingestion & RCT balance diagnostics
-│   ├── meta_learners.py        # S, T, and X-Learner implementations
-│   ├── evaluation.py           # Qini, AUUC, and Horvitz-Thompson P&L
-│   └── interpretability.py     # TreeSHAP feature attributions
-├── tests/
-│   └── test_causal_pipeline.py # Unit tests for CATE bounds & P&L invariants
-├── pytest.ini
-├── requirements.txt
-└── README.md
 
 
 
