@@ -1,0 +1,3570 @@
+Treatment_Flag,Actual_Churn,X_Learner_CATE,Predicted_Quadrant
+1,0,-0.0274,Persuadable
+1,0,0.0059,Sleeping Dog
+0,0,0.0071,Sleeping Dog
+0,0,0.0005,Sure Thing / Lost Cause
+1,0,0.0297,Sleeping Dog
+1,0,0.0057,Sleeping Dog
+1,0,0.0044,Sleeping Dog
+1,0,-0.0423,Persuadable
+1,0,0.0124,Sleeping Dog
+1,0,-0.0058,Sure Thing / Lost Cause
+1,0,-0.0303,Persuadable
+1,0,0.0078,Sleeping Dog
+1,0,-0.027,Persuadable
+1,0,0.0161,Sleeping Dog
+1,0,-0.0295,Persuadable
+1,0,0.0148,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,0.0009,Sure Thing / Lost Cause
+1,0,0.0072,Sleeping Dog
+0,0,0.0054,Sleeping Dog
+1,0,-0.0368,Persuadable
+1,0,0.0245,Sleeping Dog
+1,0,-0.0069,Sure Thing / Lost Cause
+1,0,-0.0005,Sure Thing / Lost Cause
+1,0,0.0099,Sleeping Dog
+0,0,0.0066,Sleeping Dog
+0,0,-0.0165,Sure Thing / Lost Cause
+1,0,0.0016,Sleeping Dog
+0,0,-0.0034,Sure Thing / Lost Cause
+0,0,0.0072,Sleeping Dog
+1,0,0.0253,Sleeping Dog
+0,0,0.0088,Sleeping Dog
+1,0,-0.013,Sure Thing / Lost Cause
+1,1,0.0062,Sleeping Dog
+0,0,-0.0076,Sure Thing / Lost Cause
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,-0.1156,Persuadable
+0,0,0.0022,Sleeping Dog
+1,0,-0.0068,Sure Thing / Lost Cause
+1,0,-0.0448,Persuadable
+0,0,0.0136,Sleeping Dog
+1,0,0.0126,Sleeping Dog
+0,0,0.004,Sleeping Dog
+1,0,-0.0001,Sure Thing / Lost Cause
+1,0,-0.0291,Persuadable
+1,0,0.0062,Sleeping Dog
+1,0,0.0155,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,0.0132,Sleeping Dog
+1,0,0.011,Sleeping Dog
+1,0,-0.0215,Persuadable
+0,0,0.0007,Sure Thing / Lost Cause
+0,0,0.0127,Sleeping Dog
+1,0,0.0064,Sleeping Dog
+0,0,-0.0082,Sure Thing / Lost Cause
+1,0,0.0052,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,0.0017,Sleeping Dog
+0,0,0.0089,Sleeping Dog
+0,0,-0.0527,Persuadable
+1,0,-0.0261,Persuadable
+1,0,0.0102,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+0,0,0.0018,Sleeping Dog
+1,0,-0.0138,Sure Thing / Lost Cause
+1,0,-0.0696,Persuadable
+1,0,-0.0028,Sure Thing / Lost Cause
+1,1,0.0012,Sleeping Dog
+1,0,0.0106,Sleeping Dog
+1,0,-0.0011,Sure Thing / Lost Cause
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,0.0111,Sleeping Dog
+1,0,-0.0908,Persuadable
+0,0,0.0099,Sleeping Dog
+1,1,-0.007,Sure Thing / Lost Cause
+0,0,0.0213,Sleeping Dog
+1,0,0.0101,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+1,0,0.0108,Sleeping Dog
+1,0,0.0029,Sleeping Dog
+1,0,-0.0046,Sure Thing / Lost Cause
+1,0,0.0074,Sleeping Dog
+0,0,-0.0222,Persuadable
+0,0,-0.006,Sure Thing / Lost Cause
+1,0,-0.0178,Sure Thing / Lost Cause
+1,0,0.0111,Sleeping Dog
+1,0,-0.0517,Persuadable
+1,0,0.0093,Sleeping Dog
+0,0,0.0278,Sleeping Dog
+1,0,0.0055,Sleeping Dog
+1,0,0.0019,Sleeping Dog
+1,0,-0.0125,Sure Thing / Lost Cause
+0,0,0.0082,Sleeping Dog
+1,0,-0.0573,Persuadable
+1,0,-0.0014,Sure Thing / Lost Cause
+1,0,-0.0527,Persuadable
+0,0,0.0141,Sleeping Dog
+0,0,0.0228,Sleeping Dog
+1,0,0.0107,Sleeping Dog
+0,0,-0.0828,Persuadable
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,0.0253,Sleeping Dog
+1,0,-0.0056,Sure Thing / Lost Cause
+1,0,0.0109,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,0.0095,Sleeping Dog
+1,0,0.0011,Sleeping Dog
+1,0,0.0144,Sleeping Dog
+0,0,0.0021,Sleeping Dog
+1,0,0.0204,Sleeping Dog
+1,0,0.0039,Sleeping Dog
+1,0,0.0093,Sleeping Dog
+1,0,0.0029,Sleeping Dog
+1,0,0.013,Sleeping Dog
+1,0,0.0019,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,-0.02,Sure Thing / Lost Cause
+1,0,0.0145,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,0.0114,Sleeping Dog
+0,0,-0.0055,Sure Thing / Lost Cause
+1,0,-0.0109,Sure Thing / Lost Cause
+1,1,-0.0767,Persuadable
+1,0,-0.1504,Persuadable
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0339,Persuadable
+1,0,-0.1286,Persuadable
+1,0,0.001,Sure Thing / Lost Cause
+0,0,0.0137,Sleeping Dog
+0,0,0.0169,Sleeping Dog
+1,0,0.0002,Sure Thing / Lost Cause
+1,0,0.0003,Sure Thing / Lost Cause
+1,0,-0.0142,Sure Thing / Lost Cause
+1,0,0.0126,Sleeping Dog
+1,0,-0.0005,Sure Thing / Lost Cause
+1,0,0.0132,Sleeping Dog
+1,0,-0.0076,Sure Thing / Lost Cause
+1,0,0.0491,Sleeping Dog
+1,0,-0.0211,Persuadable
+1,0,0.0161,Sleeping Dog
+1,1,0.009,Sleeping Dog
+0,0,0.0047,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+1,0,0.0308,Sleeping Dog
+1,0,0.003,Sleeping Dog
+1,0,-0.0399,Persuadable
+1,0,0.0323,Sleeping Dog
+1,0,0.0027,Sleeping Dog
+1,0,-0.0021,Sure Thing / Lost Cause
+0,0,0.0048,Sleeping Dog
+1,0,0.0098,Sleeping Dog
+0,0,0.0034,Sleeping Dog
+1,0,0.0054,Sleeping Dog
+1,0,0.0094,Sleeping Dog
+1,0,0.0103,Sleeping Dog
+1,0,0.0101,Sleeping Dog
+1,0,0.0041,Sleeping Dog
+1,0,-0.0006,Sure Thing / Lost Cause
+0,0,0.0495,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+0,0,0.0087,Sleeping Dog
+1,0,0.0075,Sleeping Dog
+0,0,-0.0016,Sure Thing / Lost Cause
+1,0,-0.0299,Persuadable
+1,0,-0.0036,Sure Thing / Lost Cause
+0,0,-0.0194,Sure Thing / Lost Cause
+0,0,-0.0062,Sure Thing / Lost Cause
+1,0,0.0019,Sleeping Dog
+1,0,-0.0246,Persuadable
+0,0,0.0076,Sleeping Dog
+1,0,0.0024,Sleeping Dog
+1,0,0.0021,Sleeping Dog
+1,0,0.0053,Sleeping Dog
+1,0,-0.0516,Persuadable
+1,0,0.0099,Sleeping Dog
+1,0,0.01,Sleeping Dog
+1,0,-0.002,Sure Thing / Lost Cause
+1,0,0.001,Sure Thing / Lost Cause
+1,0,0.0126,Sleeping Dog
+1,0,0.0021,Sleeping Dog
+1,0,0.0179,Sleeping Dog
+1,0,-0.0076,Sure Thing / Lost Cause
+0,0,0.0121,Sleeping Dog
+1,1,-0.0052,Sure Thing / Lost Cause
+1,0,-0.0021,Sure Thing / Lost Cause
+1,0,-0.0109,Sure Thing / Lost Cause
+1,0,-0.0366,Persuadable
+0,0,0.0072,Sleeping Dog
+0,0,-0.0784,Persuadable
+1,0,0.009,Sleeping Dog
+1,0,0.0157,Sleeping Dog
+1,0,0.0285,Sleeping Dog
+1,0,0.0107,Sleeping Dog
+1,0,-0.0224,Persuadable
+1,0,-0.0053,Sure Thing / Lost Cause
+1,0,-0.0272,Persuadable
+1,0,0.0073,Sleeping Dog
+0,0,0.0128,Sleeping Dog
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,-0.0081,Sure Thing / Lost Cause
+1,0,-0.0047,Sure Thing / Lost Cause
+0,0,0.0113,Sleeping Dog
+1,0,-0.0326,Persuadable
+1,0,0.0016,Sleeping Dog
+0,0,0.0168,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+1,0,-0.0262,Persuadable
+0,0,-0.0056,Sure Thing / Lost Cause
+1,0,-0.0258,Persuadable
+1,0,-0.0022,Sure Thing / Lost Cause
+1,0,0.0019,Sleeping Dog
+1,0,0.0052,Sleeping Dog
+0,0,-0.0479,Persuadable
+1,0,0.0084,Sleeping Dog
+1,0,0.0077,Sleeping Dog
+1,0,-0.0351,Persuadable
+1,0,-0.0278,Persuadable
+0,1,-0.032,Persuadable
+1,0,0.0165,Sleeping Dog
+1,1,0.0043,Sleeping Dog
+1,0,-0.0022,Sure Thing / Lost Cause
+1,0,-0.0136,Sure Thing / Lost Cause
+1,0,0.0073,Sleeping Dog
+1,0,-0.0515,Persuadable
+0,0,0.0122,Sleeping Dog
+1,0,-0.0309,Persuadable
+1,0,0.0039,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+0,0,0.002,Sleeping Dog
+1,0,-0.0092,Sure Thing / Lost Cause
+1,0,0.0263,Sleeping Dog
+1,0,0.0132,Sleeping Dog
+1,1,-0.1088,Persuadable
+1,1,-0.063,Persuadable
+1,0,0.0135,Sleeping Dog
+1,0,-0.0109,Sure Thing / Lost Cause
+0,0,-0.0022,Sure Thing / Lost Cause
+1,0,0.0126,Sleeping Dog
+0,0,0.0353,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+0,0,-0.0033,Sure Thing / Lost Cause
+1,0,0.0092,Sleeping Dog
+0,0,-0.033,Persuadable
+0,0,0.0086,Sleeping Dog
+1,0,-0.0419,Persuadable
+1,0,-0.017,Sure Thing / Lost Cause
+1,0,0.0012,Sleeping Dog
+0,0,-0.0009,Sure Thing / Lost Cause
+0,0,-0.002,Sure Thing / Lost Cause
+0,0,0.0129,Sleeping Dog
+1,0,-0.0016,Sure Thing / Lost Cause
+0,0,0.0028,Sleeping Dog
+1,0,-0.0066,Sure Thing / Lost Cause
+1,0,-0.1655,Persuadable
+1,0,-0.0174,Sure Thing / Lost Cause
+1,0,-0.12,Persuadable
+0,0,-0.014,Sure Thing / Lost Cause
+1,0,0.0063,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,0.0049,Sleeping Dog
+1,0,-0.005,Sure Thing / Lost Cause
+1,0,0.0078,Sleeping Dog
+1,0,0.0049,Sleeping Dog
+1,0,-0.007,Sure Thing / Lost Cause
+1,0,0.0335,Sleeping Dog
+0,0,-0.0132,Sure Thing / Lost Cause
+0,0,-0.0118,Sure Thing / Lost Cause
+1,0,-0.0248,Persuadable
+1,0,-0.0347,Persuadable
+1,0,-0.0025,Sure Thing / Lost Cause
+1,0,-0.0268,Persuadable
+1,0,0.0245,Sleeping Dog
+0,0,0.0102,Sleeping Dog
+1,0,-0.0002,Sure Thing / Lost Cause
+0,0,-0.0281,Persuadable
+1,0,0.011,Sleeping Dog
+1,0,-0.0124,Sure Thing / Lost Cause
+1,0,0.031,Sleeping Dog
+1,0,0.0011,Sleeping Dog
+0,0,-0.087,Persuadable
+0,1,-0.0035,Sure Thing / Lost Cause
+1,0,-0.012,Sure Thing / Lost Cause
+0,0,-0.0062,Sure Thing / Lost Cause
+1,0,0.0096,Sleeping Dog
+0,0,0.008,Sleeping Dog
+0,0,-0.0119,Sure Thing / Lost Cause
+1,0,0.0123,Sleeping Dog
+0,0,-0.0505,Persuadable
+1,0,-0.0087,Sure Thing / Lost Cause
+1,0,-0.0911,Persuadable
+1,0,-0.0628,Persuadable
+1,0,0.0086,Sleeping Dog
+1,0,-0.0255,Persuadable
+1,0,0.0087,Sleeping Dog
+1,0,-0.0019,Sure Thing / Lost Cause
+1,0,0.0103,Sleeping Dog
+0,0,0.0076,Sleeping Dog
+1,0,-0.02,Sure Thing / Lost Cause
+1,0,0.0095,Sleeping Dog
+1,0,-0.0057,Sure Thing / Lost Cause
+0,0,0.0004,Sure Thing / Lost Cause
+1,0,-0.0092,Sure Thing / Lost Cause
+0,0,0.0048,Sleeping Dog
+0,0,0.0308,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,0.0177,Sleeping Dog
+1,0,-0.0806,Persuadable
+1,0,0.0079,Sleeping Dog
+1,0,0.0012,Sleeping Dog
+1,0,0.0033,Sleeping Dog
+1,0,0.0151,Sleeping Dog
+1,0,-0.0083,Sure Thing / Lost Cause
+1,0,0.0053,Sleeping Dog
+1,0,0.0222,Sleeping Dog
+1,0,0.0032,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+1,0,-0.0122,Sure Thing / Lost Cause
+1,0,-0.035,Persuadable
+1,0,0.0153,Sleeping Dog
+1,0,0.0119,Sleeping Dog
+1,0,-0.0082,Sure Thing / Lost Cause
+1,0,0.0133,Sleeping Dog
+0,0,0.0148,Sleeping Dog
+1,0,0.0064,Sleeping Dog
+1,0,-0.0043,Sure Thing / Lost Cause
+0,0,-0.0023,Sure Thing / Lost Cause
+0,0,0.0065,Sleeping Dog
+1,0,0.0161,Sleeping Dog
+1,0,0.0061,Sleeping Dog
+1,0,-0.0046,Sure Thing / Lost Cause
+1,0,-0.0038,Sure Thing / Lost Cause
+1,0,-0.0143,Sure Thing / Lost Cause
+1,0,-0.1226,Persuadable
+1,0,0.0097,Sleeping Dog
+0,0,-0.0453,Persuadable
+1,0,0.0018,Sleeping Dog
+1,0,-0.0467,Persuadable
+1,0,-0.0038,Sure Thing / Lost Cause
+1,0,0.0061,Sleeping Dog
+0,0,0.0186,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,0.0044,Sleeping Dog
+1,0,0.0157,Sleeping Dog
+1,0,-0.0937,Persuadable
+1,0,0.006,Sleeping Dog
+1,0,-0.0236,Persuadable
+1,0,-0.0206,Persuadable
+1,0,-0.0999,Persuadable
+1,0,-0.0335,Persuadable
+1,0,0.0141,Sleeping Dog
+1,0,0.0023,Sleeping Dog
+1,0,0.0085,Sleeping Dog
+1,0,-0.0074,Sure Thing / Lost Cause
+1,0,-0.0128,Sure Thing / Lost Cause
+1,0,0.0274,Sleeping Dog
+1,0,-0.0049,Sure Thing / Lost Cause
+1,0,0.008,Sleeping Dog
+1,0,0.0018,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.109,Persuadable
+1,0,-0.0079,Sure Thing / Lost Cause
+1,0,0.0066,Sleeping Dog
+1,0,-0.0021,Sure Thing / Lost Cause
+1,0,-0.004,Sure Thing / Lost Cause
+1,0,0.0092,Sleeping Dog
+0,0,-0.0162,Sure Thing / Lost Cause
+1,0,-0.0043,Sure Thing / Lost Cause
+1,0,0.0107,Sleeping Dog
+0,0,0.0057,Sleeping Dog
+1,0,-0.0249,Persuadable
+0,0,0.0141,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,0.012,Sleeping Dog
+0,0,0.006,Sleeping Dog
+1,0,-0.0593,Persuadable
+1,1,0.0075,Sleeping Dog
+0,0,0.0132,Sleeping Dog
+1,0,0.014,Sleeping Dog
+0,0,0.0212,Sleeping Dog
+1,0,0.0067,Sleeping Dog
+1,0,-0.0196,Sure Thing / Lost Cause
+1,0,0.0022,Sleeping Dog
+0,0,0.0078,Sleeping Dog
+1,0,0.002,Sleeping Dog
+1,0,0.0182,Sleeping Dog
+1,0,0.0072,Sleeping Dog
+1,0,0.0108,Sleeping Dog
+0,0,-0.0102,Sure Thing / Lost Cause
+1,0,-0.0066,Sure Thing / Lost Cause
+0,0,0.0071,Sleeping Dog
+1,0,-0.0257,Persuadable
+1,0,0.01,Sleeping Dog
+1,0,-0.0104,Sure Thing / Lost Cause
+1,0,0.011,Sleeping Dog
+1,0,0.006,Sleeping Dog
+0,0,0.0127,Sleeping Dog
+1,0,0.0091,Sleeping Dog
+1,0,-0.0084,Sure Thing / Lost Cause
+1,0,0.0097,Sleeping Dog
+1,0,0.0021,Sleeping Dog
+1,0,-0.0171,Sure Thing / Lost Cause
+1,0,-0.0085,Sure Thing / Lost Cause
+1,0,0.0152,Sleeping Dog
+1,0,-0.0069,Sure Thing / Lost Cause
+1,0,0.0021,Sleeping Dog
+0,0,0.0136,Sleeping Dog
+1,0,-0.0134,Sure Thing / Lost Cause
+1,0,0.0053,Sleeping Dog
+1,0,0.0091,Sleeping Dog
+0,0,-0.0211,Persuadable
+1,0,-0.0228,Persuadable
+1,0,0.0267,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+0,0,0.0119,Sleeping Dog
+1,0,0.003,Sleeping Dog
+0,0,-0.0067,Sure Thing / Lost Cause
+1,0,-0.0077,Sure Thing / Lost Cause
+1,0,-0.003,Sure Thing / Lost Cause
+0,0,0.0176,Sleeping Dog
+1,0,0.0153,Sleeping Dog
+1,0,-0.0062,Sure Thing / Lost Cause
+0,0,-0.0131,Sure Thing / Lost Cause
+1,0,-0.0063,Sure Thing / Lost Cause
+1,0,0.0082,Sleeping Dog
+0,0,0.0099,Sleeping Dog
+1,0,0.0081,Sleeping Dog
+1,0,0.0465,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+1,0,-0.0066,Sure Thing / Lost Cause
+1,0,-0.0939,Persuadable
+1,0,-0.0069,Sure Thing / Lost Cause
+1,0,0.0055,Sleeping Dog
+1,0,-0.083,Persuadable
+0,0,0.0105,Sleeping Dog
+1,0,-0.0568,Persuadable
+1,0,0.0029,Sleeping Dog
+0,0,-0.0026,Sure Thing / Lost Cause
+0,0,0.0042,Sleeping Dog
+0,0,0.0016,Sleeping Dog
+1,0,-0.0015,Sure Thing / Lost Cause
+0,0,-0.0246,Persuadable
+1,1,0.003,Sleeping Dog
+1,0,0.0036,Sleeping Dog
+1,0,0.0312,Sleeping Dog
+1,0,0.0124,Sleeping Dog
+1,0,0.0087,Sleeping Dog
+0,0,0.0127,Sleeping Dog
+1,0,0.0134,Sleeping Dog
+1,0,-0.0127,Sure Thing / Lost Cause
+1,0,-0.0597,Persuadable
+1,0,0.0254,Sleeping Dog
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,0.0119,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,0.0105,Sleeping Dog
+1,0,-0.0392,Persuadable
+1,0,0.0143,Sleeping Dog
+1,0,0.0009,Sure Thing / Lost Cause
+1,0,0.0053,Sleeping Dog
+1,0,-0.015,Sure Thing / Lost Cause
+0,0,-0.0208,Persuadable
+1,0,0.014,Sleeping Dog
+0,0,-0.0118,Sure Thing / Lost Cause
+0,0,-0.0081,Sure Thing / Lost Cause
+1,0,-0.0224,Persuadable
+1,0,-0.0203,Persuadable
+0,0,0.0348,Sleeping Dog
+0,0,-0.0097,Sure Thing / Lost Cause
+1,0,0.0143,Sleeping Dog
+0,0,0.0126,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+0,0,-0.0686,Persuadable
+1,0,-0.0067,Sure Thing / Lost Cause
+0,0,-0.0117,Sure Thing / Lost Cause
+1,0,0.0024,Sleeping Dog
+1,0,0.0138,Sleeping Dog
+1,0,-0.0163,Sure Thing / Lost Cause
+1,0,-0.0179,Sure Thing / Lost Cause
+1,0,0.0083,Sleeping Dog
+1,0,0.0154,Sleeping Dog
+1,0,0.006,Sleeping Dog
+1,0,-0.0508,Persuadable
+1,0,-0.0025,Sure Thing / Lost Cause
+1,0,0.0196,Sleeping Dog
+0,0,-0.1107,Persuadable
+0,0,-0.0102,Sure Thing / Lost Cause
+0,0,0.0041,Sleeping Dog
+0,0,-0.0252,Persuadable
+1,0,0.0068,Sleeping Dog
+1,0,0.0169,Sleeping Dog
+1,0,-0.0179,Sure Thing / Lost Cause
+0,0,0.0066,Sleeping Dog
+1,0,-0.0038,Sure Thing / Lost Cause
+1,0,0.0028,Sleeping Dog
+1,0,-0.014,Sure Thing / Lost Cause
+1,0,-0.0083,Sure Thing / Lost Cause
+0,0,0.004,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,0.009,Sleeping Dog
+0,0,-0.0192,Sure Thing / Lost Cause
+1,0,-0.0639,Persuadable
+1,0,0.0122,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+0,0,0.0078,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+1,0,-0.1221,Persuadable
+1,0,0.0134,Sleeping Dog
+0,0,0.0054,Sleeping Dog
+1,0,-0.0179,Sure Thing / Lost Cause
+1,0,-0.0154,Sure Thing / Lost Cause
+1,0,-0.046,Persuadable
+1,0,0.0116,Sleeping Dog
+0,0,0.0086,Sleeping Dog
+1,0,-0.011,Sure Thing / Lost Cause
+1,0,0.009,Sleeping Dog
+1,0,0.0107,Sleeping Dog
+1,0,0.0129,Sleeping Dog
+1,0,-0.0523,Persuadable
+0,0,0.0028,Sleeping Dog
+1,0,0.0157,Sleeping Dog
+0,0,0.0056,Sleeping Dog
+1,0,-0.0007,Sure Thing / Lost Cause
+1,0,-0.0361,Persuadable
+1,0,-0.0152,Sure Thing / Lost Cause
+0,0,-0.0305,Persuadable
+1,0,0.0121,Sleeping Dog
+0,0,0.025,Sleeping Dog
+1,0,-0.0067,Sure Thing / Lost Cause
+0,0,0.0002,Sure Thing / Lost Cause
+1,0,-0.0064,Sure Thing / Lost Cause
+1,0,-0.0114,Sure Thing / Lost Cause
+1,0,0.0145,Sleeping Dog
+1,0,-0.0303,Persuadable
+0,0,0.0087,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+1,0,0.0019,Sleeping Dog
+1,0,-0.0137,Sure Thing / Lost Cause
+1,0,0.001,Sure Thing / Lost Cause
+1,0,0.0089,Sleeping Dog
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,-0.0174,Sure Thing / Lost Cause
+0,0,0.0161,Sleeping Dog
+1,0,0.0135,Sleeping Dog
+1,0,0.0092,Sleeping Dog
+1,0,0.0061,Sleeping Dog
+1,0,-0.0303,Persuadable
+1,0,-0.0035,Sure Thing / Lost Cause
+1,0,0.0128,Sleeping Dog
+1,0,0.0093,Sleeping Dog
+1,0,-0.0145,Sure Thing / Lost Cause
+0,0,0.0047,Sleeping Dog
+1,0,0.0124,Sleeping Dog
+0,0,-0.0138,Sure Thing / Lost Cause
+1,0,-0.0181,Sure Thing / Lost Cause
+1,0,-0.0065,Sure Thing / Lost Cause
+1,0,0.0125,Sleeping Dog
+0,0,0.0157,Sleeping Dog
+1,0,-0.1331,Persuadable
+1,0,-0.0078,Sure Thing / Lost Cause
+1,0,-0.0113,Sure Thing / Lost Cause
+1,0,0.0068,Sleeping Dog
+1,0,-0.0075,Sure Thing / Lost Cause
+1,0,-0.0001,Sure Thing / Lost Cause
+1,0,-0.0028,Sure Thing / Lost Cause
+1,0,-0.0201,Persuadable
+1,0,-0.015,Sure Thing / Lost Cause
+1,0,-0.0253,Persuadable
+1,0,-0.0049,Sure Thing / Lost Cause
+1,0,-0.0488,Persuadable
+0,0,0.0002,Sure Thing / Lost Cause
+1,0,0.0131,Sleeping Dog
+1,0,-0.005,Sure Thing / Lost Cause
+0,0,0.0018,Sleeping Dog
+1,0,0.015,Sleeping Dog
+1,1,0.0114,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+1,0,0.015,Sleeping Dog
+1,0,0.0168,Sleeping Dog
+1,0,0.0044,Sleeping Dog
+1,0,0.018,Sleeping Dog
+0,0,-0.0384,Persuadable
+1,0,0.0041,Sleeping Dog
+1,0,-0.0457,Persuadable
+1,0,-0.0152,Sure Thing / Lost Cause
+0,0,0.0119,Sleeping Dog
+0,0,0.004,Sleeping Dog
+0,0,-0.116,Persuadable
+1,0,0.0049,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,-0.0029,Sure Thing / Lost Cause
+1,0,0.0098,Sleeping Dog
+1,0,-0.017,Sure Thing / Lost Cause
+1,0,-0.016,Sure Thing / Lost Cause
+1,0,0.0165,Sleeping Dog
+1,0,0.0043,Sleeping Dog
+1,0,-0.0331,Persuadable
+0,0,0.0122,Sleeping Dog
+1,0,-0.0694,Persuadable
+1,0,-0.0574,Persuadable
+0,0,0.005,Sleeping Dog
+0,0,-0.0036,Sure Thing / Lost Cause
+0,0,0.0113,Sleeping Dog
+0,0,0.0034,Sleeping Dog
+1,0,-0.0332,Persuadable
+1,0,0.0003,Sure Thing / Lost Cause
+1,0,0.0061,Sleeping Dog
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,-0.0283,Persuadable
+1,0,-0.0164,Sure Thing / Lost Cause
+1,0,-0.009,Sure Thing / Lost Cause
+0,0,-0.0124,Sure Thing / Lost Cause
+1,0,-0.0479,Persuadable
+1,0,0.0144,Sleeping Dog
+1,0,0.008,Sleeping Dog
+0,0,-0.0356,Persuadable
+0,0,0.0103,Sleeping Dog
+1,0,0.0265,Sleeping Dog
+1,0,0.0664,Sleeping Dog
+1,0,-0.0137,Sure Thing / Lost Cause
+1,0,-0.007,Sure Thing / Lost Cause
+1,0,0.0201,Sleeping Dog
+0,1,-0.0584,Persuadable
+0,0,-0.0449,Persuadable
+1,0,-0.0015,Sure Thing / Lost Cause
+1,0,0.016,Sleeping Dog
+1,0,-0.0473,Persuadable
+0,0,0.0064,Sleeping Dog
+1,0,0.0112,Sleeping Dog
+0,0,0.0103,Sleeping Dog
+1,0,0.0182,Sleeping Dog
+1,0,0.0012,Sleeping Dog
+0,0,0.0131,Sleeping Dog
+1,0,-0.0007,Sure Thing / Lost Cause
+1,1,0.0055,Sleeping Dog
+1,0,0.0089,Sleeping Dog
+0,0,0.0138,Sleeping Dog
+1,0,-0.0034,Sure Thing / Lost Cause
+1,0,-0.021,Persuadable
+0,0,-0.0001,Sure Thing / Lost Cause
+1,0,0.0066,Sleeping Dog
+1,0,-0.0269,Persuadable
+1,0,0.0271,Sleeping Dog
+1,0,-0.0269,Persuadable
+1,0,-0.0144,Sure Thing / Lost Cause
+1,0,0.0047,Sleeping Dog
+1,0,0.007,Sleeping Dog
+1,0,-0.0151,Sure Thing / Lost Cause
+1,0,-0.0029,Sure Thing / Lost Cause
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,0.001,Sure Thing / Lost Cause
+1,0,0.0064,Sleeping Dog
+1,1,-0.0015,Sure Thing / Lost Cause
+0,0,-0.0055,Sure Thing / Lost Cause
+0,0,0.0074,Sleeping Dog
+1,0,0.0155,Sleeping Dog
+0,0,0.0076,Sleeping Dog
+1,0,-0.0225,Persuadable
+1,0,0.0066,Sleeping Dog
+1,0,0.0014,Sleeping Dog
+1,0,0.007,Sleeping Dog
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,-0.0206,Persuadable
+1,0,-0.0156,Sure Thing / Lost Cause
+1,0,0.0121,Sleeping Dog
+1,0,-0.0907,Persuadable
+1,0,0.0158,Sleeping Dog
+1,0,0.0028,Sleeping Dog
+1,0,-0.036,Persuadable
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,-0.0061,Sure Thing / Lost Cause
+1,0,0.0154,Sleeping Dog
+1,0,-0.0019,Sure Thing / Lost Cause
+1,0,0.0055,Sleeping Dog
+1,0,-0.0232,Persuadable
+0,0,0.004,Sleeping Dog
+0,0,0.0094,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,-0.0168,Sure Thing / Lost Cause
+0,0,0.0013,Sleeping Dog
+1,0,-0.0006,Sure Thing / Lost Cause
+0,0,0.0107,Sleeping Dog
+0,0,0.0064,Sleeping Dog
+0,0,0.0121,Sleeping Dog
+1,0,0.0156,Sleeping Dog
+1,0,0.0089,Sleeping Dog
+1,0,0.0038,Sleeping Dog
+1,0,0.0093,Sleeping Dog
+1,0,-0.0418,Persuadable
+0,0,-0.0579,Persuadable
+0,0,-0.0347,Persuadable
+1,0,0.0043,Sleeping Dog
+1,0,0.014,Sleeping Dog
+1,0,-0.0038,Sure Thing / Lost Cause
+1,0,0.0052,Sleeping Dog
+1,0,-0.0161,Sure Thing / Lost Cause
+1,0,-0.0088,Sure Thing / Lost Cause
+1,0,0.0059,Sleeping Dog
+1,0,0.0059,Sleeping Dog
+0,0,0.0097,Sleeping Dog
+1,0,0.0124,Sleeping Dog
+1,0,0.0062,Sleeping Dog
+1,0,-0.0123,Sure Thing / Lost Cause
+1,0,-0.0037,Sure Thing / Lost Cause
+0,0,0.0062,Sleeping Dog
+0,0,0.0087,Sleeping Dog
+1,0,-0.0144,Sure Thing / Lost Cause
+1,0,0.0115,Sleeping Dog
+1,0,-0.0486,Persuadable
+0,0,0.0063,Sleeping Dog
+0,0,-0.0176,Sure Thing / Lost Cause
+1,0,0.0043,Sleeping Dog
+1,0,-0.0157,Sure Thing / Lost Cause
+1,0,-0.0326,Persuadable
+1,0,0.0039,Sleeping Dog
+1,0,-0.0371,Persuadable
+1,0,-0.0209,Persuadable
+1,0,0.0019,Sleeping Dog
+0,0,0.0031,Sleeping Dog
+0,0,0.0377,Sleeping Dog
+0,0,0.0049,Sleeping Dog
+1,0,-0.0674,Persuadable
+1,0,0.015,Sleeping Dog
+0,0,0.0098,Sleeping Dog
+1,0,-0.0368,Persuadable
+1,0,-0.0036,Sure Thing / Lost Cause
+1,0,-0.0355,Persuadable
+1,0,-0.0295,Persuadable
+1,0,-0.0182,Sure Thing / Lost Cause
+1,0,0.007,Sleeping Dog
+1,0,0.0098,Sleeping Dog
+1,0,0.0213,Sleeping Dog
+1,0,0.0073,Sleeping Dog
+1,0,0.0007,Sure Thing / Lost Cause
+0,0,0.0142,Sleeping Dog
+1,0,0.0099,Sleeping Dog
+1,0,0.0028,Sleeping Dog
+1,0,0.0035,Sleeping Dog
+1,0,0.0039,Sleeping Dog
+0,0,0.0119,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+1,0,0.0075,Sleeping Dog
+1,0,0.0121,Sleeping Dog
+1,0,-0.0549,Persuadable
+0,0,0.0145,Sleeping Dog
+0,1,-0.0018,Sure Thing / Lost Cause
+0,0,-0.0194,Sure Thing / Lost Cause
+1,0,0.0117,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+0,0,-0.0254,Persuadable
+1,0,0.0097,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+1,1,0.0039,Sleeping Dog
+0,0,0.0013,Sleeping Dog
+0,0,0.0078,Sleeping Dog
+1,0,0.0156,Sleeping Dog
+1,0,-0.0095,Sure Thing / Lost Cause
+1,0,0.0225,Sleeping Dog
+1,0,-0.0241,Persuadable
+0,0,-0.0019,Sure Thing / Lost Cause
+0,0,-0.005,Sure Thing / Lost Cause
+1,0,-0.0019,Sure Thing / Lost Cause
+1,0,-0.0166,Sure Thing / Lost Cause
+0,0,-0.0058,Sure Thing / Lost Cause
+1,0,-0.0457,Persuadable
+1,0,0.0036,Sleeping Dog
+1,0,-0.0673,Persuadable
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,0.0118,Sleeping Dog
+0,0,0.0055,Sleeping Dog
+0,0,-0.0022,Sure Thing / Lost Cause
+1,0,0.01,Sleeping Dog
+1,0,-0.0281,Persuadable
+1,0,0.0055,Sleeping Dog
+1,0,0.0145,Sleeping Dog
+0,0,0.009,Sleeping Dog
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,0.002,Sleeping Dog
+1,0,0.0096,Sleeping Dog
+1,0,0.0079,Sleeping Dog
+1,0,0.016,Sleeping Dog
+1,0,-0.0055,Sure Thing / Lost Cause
+1,0,0.0006,Sure Thing / Lost Cause
+1,0,-0.0067,Sure Thing / Lost Cause
+1,1,-0.0044,Sure Thing / Lost Cause
+1,0,-0.0097,Sure Thing / Lost Cause
+1,0,-0.028,Persuadable
+1,0,0.0118,Sleeping Dog
+0,0,-0.011,Sure Thing / Lost Cause
+1,0,0.0001,Sure Thing / Lost Cause
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,0.0141,Sleeping Dog
+1,0,0.0295,Sleeping Dog
+1,0,-0.0018,Sure Thing / Lost Cause
+0,0,0.0009,Sure Thing / Lost Cause
+0,0,0.0155,Sleeping Dog
+1,0,0.01,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,0.0028,Sleeping Dog
+1,0,-0.0117,Sure Thing / Lost Cause
+1,0,0.0102,Sleeping Dog
+1,0,-0.0525,Persuadable
+1,0,-0.0903,Persuadable
+0,0,0.0017,Sleeping Dog
+1,0,-0.0327,Persuadable
+1,0,-0.0317,Persuadable
+0,0,0.0126,Sleeping Dog
+1,0,-0.0009,Sure Thing / Lost Cause
+1,0,-0.1339,Persuadable
+1,0,0.0149,Sleeping Dog
+0,0,0.0136,Sleeping Dog
+1,0,0.0081,Sleeping Dog
+1,0,0.0012,Sleeping Dog
+0,0,-0.0385,Persuadable
+1,0,-0.0128,Sure Thing / Lost Cause
+1,0,0.0089,Sleeping Dog
+0,1,0.0106,Sleeping Dog
+1,0,0.005,Sleeping Dog
+0,0,0.0031,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+0,0,0.0128,Sleeping Dog
+0,0,0.0031,Sleeping Dog
+1,0,0.0022,Sleeping Dog
+1,1,0.0035,Sleeping Dog
+1,0,0.0108,Sleeping Dog
+1,0,-0.0431,Persuadable
+1,0,-0.0367,Persuadable
+1,0,0.013,Sleeping Dog
+1,0,0.0045,Sleeping Dog
+1,0,0.0067,Sleeping Dog
+1,0,0.0052,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,0.0074,Sleeping Dog
+1,0,-0.0064,Sure Thing / Lost Cause
+0,0,0.0043,Sleeping Dog
+1,0,0.0108,Sleeping Dog
+1,0,-0.0132,Sure Thing / Lost Cause
+0,0,-0.0109,Sure Thing / Lost Cause
+1,0,0.0088,Sleeping Dog
+1,0,-0.0213,Persuadable
+0,0,-0.0235,Persuadable
+1,0,0.0182,Sleeping Dog
+1,0,-0.0272,Persuadable
+0,1,-0.0009,Sure Thing / Lost Cause
+1,0,0.0143,Sleeping Dog
+0,0,-0.0598,Persuadable
+0,0,-0.047,Persuadable
+1,0,0.016,Sleeping Dog
+1,0,-0.0178,Sure Thing / Lost Cause
+0,0,0.0045,Sleeping Dog
+0,0,0.013,Sleeping Dog
+0,0,0.0041,Sleeping Dog
+0,0,-0.0059,Sure Thing / Lost Cause
+1,0,-0.033,Persuadable
+0,0,-0.03,Persuadable
+0,0,0.0037,Sleeping Dog
+1,0,0.0144,Sleeping Dog
+0,0,0.0065,Sleeping Dog
+1,0,-0.0052,Sure Thing / Lost Cause
+1,0,-0.0343,Persuadable
+1,0,0.0041,Sleeping Dog
+1,0,-0.0632,Persuadable
+0,0,-0.0196,Sure Thing / Lost Cause
+1,0,0.0119,Sleeping Dog
+0,0,0.0052,Sleeping Dog
+0,0,0.006,Sleeping Dog
+0,1,-0.0387,Persuadable
+1,0,0.0043,Sleeping Dog
+1,0,-0.0145,Sure Thing / Lost Cause
+1,0,0.0087,Sleeping Dog
+1,0,-0.0101,Sure Thing / Lost Cause
+1,0,0.0164,Sleeping Dog
+1,0,0.011,Sleeping Dog
+1,0,-0.0309,Persuadable
+1,0,0.0039,Sleeping Dog
+0,0,-0.0408,Persuadable
+0,0,-0.0099,Sure Thing / Lost Cause
+1,0,0.012,Sleeping Dog
+0,0,0.0056,Sleeping Dog
+0,0,0.0131,Sleeping Dog
+0,0,0.0113,Sleeping Dog
+1,0,-0.0424,Persuadable
+1,0,0.015,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,0.0006,Sure Thing / Lost Cause
+1,0,0.0072,Sleeping Dog
+1,0,-0.0107,Sure Thing / Lost Cause
+1,0,-0.0043,Sure Thing / Lost Cause
+1,0,0.0125,Sleeping Dog
+0,0,-0.0016,Sure Thing / Lost Cause
+1,0,0.0089,Sleeping Dog
+1,0,0.0099,Sleeping Dog
+1,0,-0.16,Persuadable
+1,0,0.0151,Sleeping Dog
+1,0,0.0048,Sleeping Dog
+1,0,-0.0561,Persuadable
+1,0,0.0072,Sleeping Dog
+1,0,-0.0147,Sure Thing / Lost Cause
+1,0,0.0071,Sleeping Dog
+1,0,0.0039,Sleeping Dog
+1,0,-0.0156,Sure Thing / Lost Cause
+0,0,0.0112,Sleeping Dog
+1,0,0.0121,Sleeping Dog
+1,0,0.0098,Sleeping Dog
+1,0,-0.0038,Sure Thing / Lost Cause
+1,0,0.0079,Sleeping Dog
+1,1,0.0021,Sleeping Dog
+0,0,-0.0246,Persuadable
+0,0,-0.0029,Sure Thing / Lost Cause
+1,0,-0.0302,Persuadable
+1,0,0.0043,Sleeping Dog
+1,0,-0.0036,Sure Thing / Lost Cause
+1,0,-0.008,Sure Thing / Lost Cause
+1,0,-0.0362,Persuadable
+1,0,-0.0553,Persuadable
+1,0,0.0013,Sleeping Dog
+1,0,0.0141,Sleeping Dog
+0,0,-0.0006,Sure Thing / Lost Cause
+1,0,0.0164,Sleeping Dog
+1,0,-0.0176,Sure Thing / Lost Cause
+1,0,-0.0142,Sure Thing / Lost Cause
+1,0,0.0132,Sleeping Dog
+0,0,0.0106,Sleeping Dog
+1,0,0.0071,Sleeping Dog
+1,0,0.0072,Sleeping Dog
+0,0,-0.001,Sure Thing / Lost Cause
+1,0,0.0045,Sleeping Dog
+1,0,0.0016,Sleeping Dog
+0,0,0.0117,Sleeping Dog
+0,0,-0.0223,Persuadable
+0,0,-0.0128,Sure Thing / Lost Cause
+1,0,0.0114,Sleeping Dog
+1,0,0.0163,Sleeping Dog
+0,0,-0.01,Sure Thing / Lost Cause
+0,0,-0.0168,Sure Thing / Lost Cause
+1,0,0.0087,Sleeping Dog
+1,0,-0.0732,Persuadable
+0,0,0.0244,Sleeping Dog
+1,0,-0.0081,Sure Thing / Lost Cause
+1,0,-0.0,Sure Thing / Lost Cause
+0,0,0.0058,Sleeping Dog
+1,0,0.0157,Sleeping Dog
+1,0,0.006,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+1,0,-0.0099,Sure Thing / Lost Cause
+1,0,-0.0292,Persuadable
+0,0,-0.0209,Persuadable
+1,0,0.004,Sleeping Dog
+0,0,0.0121,Sleeping Dog
+1,0,-0.0136,Sure Thing / Lost Cause
+0,0,-0.056,Persuadable
+0,0,0.0104,Sleeping Dog
+0,0,-0.0029,Sure Thing / Lost Cause
+1,0,0.0135,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+0,0,-0.0373,Persuadable
+1,0,0.0059,Sleeping Dog
+1,0,-0.0324,Persuadable
+1,0,0.0068,Sleeping Dog
+1,0,0.0042,Sleeping Dog
+1,0,-0.1231,Persuadable
+1,0,0.0243,Sleeping Dog
+1,0,0.0022,Sleeping Dog
+1,0,-0.0346,Persuadable
+1,1,0.0073,Sleeping Dog
+1,0,-0.0071,Sure Thing / Lost Cause
+1,0,0.0145,Sleeping Dog
+1,0,-0.045,Persuadable
+0,0,-0.0086,Sure Thing / Lost Cause
+1,0,0.0147,Sleeping Dog
+0,0,-0.0103,Sure Thing / Lost Cause
+1,0,0.0043,Sleeping Dog
+0,1,0.0024,Sleeping Dog
+1,0,0.0033,Sleeping Dog
+1,0,0.0083,Sleeping Dog
+1,0,-0.0161,Sure Thing / Lost Cause
+1,0,-0.0199,Sure Thing / Lost Cause
+0,0,-0.0003,Sure Thing / Lost Cause
+1,0,0.0113,Sleeping Dog
+1,0,-0.1788,Persuadable
+1,0,0.0083,Sleeping Dog
+0,0,-0.0233,Persuadable
+1,0,-0.0016,Sure Thing / Lost Cause
+0,0,-0.0071,Sure Thing / Lost Cause
+1,0,-0.0467,Persuadable
+1,1,-0.0168,Sure Thing / Lost Cause
+1,0,-0.0692,Persuadable
+0,0,0.0163,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+1,0,-0.0146,Sure Thing / Lost Cause
+0,0,-0.0013,Sure Thing / Lost Cause
+0,0,-0.0144,Sure Thing / Lost Cause
+0,0,0.003,Sleeping Dog
+1,0,-0.051,Persuadable
+1,0,0.0028,Sleeping Dog
+1,0,-0.0044,Sure Thing / Lost Cause
+1,0,-0.0005,Sure Thing / Lost Cause
+1,0,0.0016,Sleeping Dog
+0,0,0.0094,Sleeping Dog
+0,0,-0.0014,Sure Thing / Lost Cause
+0,0,-0.1233,Persuadable
+1,0,0.0024,Sleeping Dog
+1,0,0.0147,Sleeping Dog
+0,0,0.0091,Sleeping Dog
+1,0,-0.0093,Sure Thing / Lost Cause
+1,0,-0.0036,Sure Thing / Lost Cause
+1,0,0.0119,Sleeping Dog
+0,0,0.0055,Sleeping Dog
+0,0,0.0033,Sleeping Dog
+1,0,-0.0424,Persuadable
+1,0,-0.0163,Sure Thing / Lost Cause
+1,0,-0.0249,Persuadable
+0,0,0.0082,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,-0.0687,Persuadable
+0,0,0.001,Sure Thing / Lost Cause
+1,0,-0.0606,Persuadable
+0,0,0.0155,Sleeping Dog
+0,0,0.0127,Sleeping Dog
+1,0,0.007,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,0.0126,Sleeping Dog
+1,0,0.0019,Sleeping Dog
+0,0,-0.0044,Sure Thing / Lost Cause
+1,0,-0.0458,Persuadable
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,-0.0323,Persuadable
+1,0,0.0126,Sleeping Dog
+1,0,-0.013,Sure Thing / Lost Cause
+0,0,0.0141,Sleeping Dog
+1,0,0.0096,Sleeping Dog
+1,1,0.0293,Sleeping Dog
+1,0,0.0066,Sleeping Dog
+1,0,-0.0913,Persuadable
+1,0,0.0118,Sleeping Dog
+1,0,-0.0184,Sure Thing / Lost Cause
+1,0,-0.0266,Persuadable
+1,0,0.0101,Sleeping Dog
+1,0,0.0034,Sleeping Dog
+1,0,0.0041,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,0.0068,Sleeping Dog
+1,0,0.0081,Sleeping Dog
+1,0,-0.0506,Persuadable
+1,0,0.0066,Sleeping Dog
+1,1,0.0173,Sleeping Dog
+1,0,0.0021,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,0.0114,Sleeping Dog
+1,1,-0.0102,Sure Thing / Lost Cause
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,0.0115,Sleeping Dog
+1,0,0.0041,Sleeping Dog
+0,0,0.014,Sleeping Dog
+1,0,0.0047,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,0.0096,Sleeping Dog
+1,1,0.0095,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+1,0,-0.0875,Persuadable
+0,0,0.0105,Sleeping Dog
+1,0,0.0382,Sleeping Dog
+1,0,-0.0202,Persuadable
+0,0,0.0413,Sleeping Dog
+1,0,0.0057,Sleeping Dog
+1,0,0.0131,Sleeping Dog
+1,0,0.0058,Sleeping Dog
+0,0,0.0112,Sleeping Dog
+1,0,0.0053,Sleeping Dog
+0,0,0.0136,Sleeping Dog
+0,0,-0.0019,Sure Thing / Lost Cause
+1,0,0.0037,Sleeping Dog
+0,0,0.0081,Sleeping Dog
+0,0,-0.0272,Persuadable
+1,0,-0.1524,Persuadable
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,-0.0272,Persuadable
+1,0,0.0063,Sleeping Dog
+1,0,0.0044,Sleeping Dog
+0,0,0.008,Sleeping Dog
+1,0,0.0135,Sleeping Dog
+1,0,-0.0028,Sure Thing / Lost Cause
+1,0,0.0345,Sleeping Dog
+0,0,0.0042,Sleeping Dog
+1,0,0.0123,Sleeping Dog
+1,0,0.003,Sleeping Dog
+1,0,0.029,Sleeping Dog
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,0.0073,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+1,0,0.014,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+1,0,0.0096,Sleeping Dog
+1,0,0.0014,Sleeping Dog
+1,0,0.0052,Sleeping Dog
+1,0,0.0122,Sleeping Dog
+1,0,-0.0101,Sure Thing / Lost Cause
+0,0,-0.0017,Sure Thing / Lost Cause
+0,0,-0.006,Sure Thing / Lost Cause
+1,0,-0.0436,Persuadable
+0,0,-0.0264,Persuadable
+1,0,-0.1665,Persuadable
+1,0,-0.0181,Sure Thing / Lost Cause
+1,0,-0.0088,Sure Thing / Lost Cause
+1,0,0.0089,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+1,0,-0.0108,Sure Thing / Lost Cause
+1,0,0.0051,Sleeping Dog
+1,0,0.0076,Sleeping Dog
+1,0,0.0363,Sleeping Dog
+1,1,0.0152,Sleeping Dog
+1,0,0.0007,Sure Thing / Lost Cause
+0,0,-0.0216,Persuadable
+1,0,-0.0023,Sure Thing / Lost Cause
+0,0,-0.0478,Persuadable
+1,0,-0.0268,Persuadable
+0,1,0.024,Sleeping Dog
+1,0,-0.0213,Persuadable
+1,0,0.0064,Sleeping Dog
+0,0,0.0193,Sleeping Dog
+1,0,-0.0181,Sure Thing / Lost Cause
+0,0,0.0168,Sleeping Dog
+0,0,0.0064,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+1,0,-0.0127,Sure Thing / Lost Cause
+1,0,-0.0049,Sure Thing / Lost Cause
+1,0,-0.0028,Sure Thing / Lost Cause
+1,0,0.0033,Sleeping Dog
+1,0,0.0091,Sleeping Dog
+1,0,0.0067,Sleeping Dog
+0,0,-0.0388,Persuadable
+1,0,-0.0006,Sure Thing / Lost Cause
+1,0,0.0082,Sleeping Dog
+1,0,-0.0097,Sure Thing / Lost Cause
+1,1,-0.0191,Sure Thing / Lost Cause
+0,0,-0.0389,Persuadable
+0,0,0.0002,Sure Thing / Lost Cause
+1,0,-0.0214,Persuadable
+1,0,-0.0081,Sure Thing / Lost Cause
+1,0,-0.0125,Sure Thing / Lost Cause
+1,0,0.0126,Sleeping Dog
+1,0,0.0202,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,-0.0673,Persuadable
+1,0,0.0012,Sleeping Dog
+0,0,0.0127,Sleeping Dog
+0,0,-0.0171,Sure Thing / Lost Cause
+1,0,-0.0099,Sure Thing / Lost Cause
+1,0,-0.0122,Sure Thing / Lost Cause
+1,0,0.0045,Sleeping Dog
+1,0,0.0137,Sleeping Dog
+1,0,-0.0334,Persuadable
+1,0,-0.0073,Sure Thing / Lost Cause
+1,0,-0.037,Persuadable
+0,0,-0.021,Persuadable
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0272,Persuadable
+1,0,0.0117,Sleeping Dog
+0,0,0.0151,Sleeping Dog
+0,0,0.0103,Sleeping Dog
+0,0,0.0123,Sleeping Dog
+1,0,-0.0673,Persuadable
+1,0,0.0131,Sleeping Dog
+0,0,0.0193,Sleeping Dog
+1,0,-0.0138,Sure Thing / Lost Cause
+1,0,0.0123,Sleeping Dog
+1,0,-0.0093,Sure Thing / Lost Cause
+1,0,0.0029,Sleeping Dog
+0,0,0.0169,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+1,0,-0.1605,Persuadable
+0,0,-0.0045,Sure Thing / Lost Cause
+0,0,-0.0108,Sure Thing / Lost Cause
+1,0,-0.0113,Sure Thing / Lost Cause
+0,0,0.0005,Sure Thing / Lost Cause
+1,0,-0.045,Persuadable
+1,0,0.0101,Sleeping Dog
+1,0,0.0058,Sleeping Dog
+1,0,-0.0053,Sure Thing / Lost Cause
+1,0,0.0115,Sleeping Dog
+1,0,-0.0587,Persuadable
+0,0,-0.0096,Sure Thing / Lost Cause
+0,0,0.0127,Sleeping Dog
+1,0,-0.0099,Sure Thing / Lost Cause
+1,0,0.0077,Sleeping Dog
+1,0,-0.0287,Persuadable
+1,0,-0.0197,Sure Thing / Lost Cause
+1,0,-0.0117,Sure Thing / Lost Cause
+0,0,0.0076,Sleeping Dog
+1,0,-0.0028,Sure Thing / Lost Cause
+0,0,-0.0038,Sure Thing / Lost Cause
+0,0,-0.0472,Persuadable
+1,0,-0.0473,Persuadable
+1,0,-0.0351,Persuadable
+1,0,0.0081,Sleeping Dog
+1,0,0.0028,Sleeping Dog
+1,0,-0.0089,Sure Thing / Lost Cause
+0,0,-0.0277,Persuadable
+1,0,-0.0275,Persuadable
+0,0,-0.0377,Persuadable
+1,0,0.0076,Sleeping Dog
+1,0,-0.0175,Sure Thing / Lost Cause
+1,0,0.0164,Sleeping Dog
+0,0,-0.0001,Sure Thing / Lost Cause
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,0.0075,Sleeping Dog
+1,0,0.0169,Sleeping Dog
+1,0,0.0093,Sleeping Dog
+1,0,0.0323,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,0.0183,Sleeping Dog
+1,0,-0.1215,Persuadable
+1,0,-0.0457,Persuadable
+0,0,0.0067,Sleeping Dog
+1,0,0.0046,Sleeping Dog
+1,0,-0.0012,Sure Thing / Lost Cause
+1,0,-0.1371,Persuadable
+0,0,0.0001,Sure Thing / Lost Cause
+1,0,-0.0478,Persuadable
+1,0,0.0006,Sure Thing / Lost Cause
+0,0,0.0087,Sleeping Dog
+0,0,0.0088,Sleeping Dog
+1,0,-0.1029,Persuadable
+1,0,-0.0172,Sure Thing / Lost Cause
+1,0,-0.0044,Sure Thing / Lost Cause
+1,0,0.0127,Sleeping Dog
+0,0,-0.0012,Sure Thing / Lost Cause
+0,0,-0.0197,Sure Thing / Lost Cause
+1,0,-0.108,Persuadable
+0,0,-0.0417,Persuadable
+0,0,0.0032,Sleeping Dog
+0,0,0.0005,Sure Thing / Lost Cause
+1,0,-0.0136,Sure Thing / Lost Cause
+1,0,0.0011,Sleeping Dog
+1,0,-0.0336,Persuadable
+1,0,0.0043,Sleeping Dog
+0,0,0.0025,Sleeping Dog
+1,0,0.015,Sleeping Dog
+1,0,-0.011,Sure Thing / Lost Cause
+0,0,0.0206,Sleeping Dog
+0,0,0.0082,Sleeping Dog
+0,0,0.006,Sleeping Dog
+1,0,-0.0378,Persuadable
+1,0,-0.0875,Persuadable
+1,0,-0.0105,Sure Thing / Lost Cause
+0,0,0.0098,Sleeping Dog
+1,0,0.0075,Sleeping Dog
+1,1,-0.012,Sure Thing / Lost Cause
+1,0,-0.0354,Persuadable
+1,0,0.0105,Sleeping Dog
+1,0,0.0117,Sleeping Dog
+1,0,-0.0219,Persuadable
+1,0,-0.1183,Persuadable
+1,0,0.006,Sleeping Dog
+1,0,0.0227,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+0,0,0.0111,Sleeping Dog
+1,0,-0.0604,Persuadable
+0,0,-0.019,Sure Thing / Lost Cause
+1,0,-0.054,Persuadable
+1,0,0.0035,Sleeping Dog
+1,0,-0.0297,Persuadable
+1,0,-0.0124,Sure Thing / Lost Cause
+1,0,-0.0025,Sure Thing / Lost Cause
+1,0,0.005,Sleeping Dog
+1,0,0.006,Sleeping Dog
+1,0,-0.0175,Sure Thing / Lost Cause
+1,0,0.0076,Sleeping Dog
+1,0,-0.0162,Sure Thing / Lost Cause
+1,1,-0.1524,Persuadable
+0,0,0.0034,Sleeping Dog
+1,0,0.014,Sleeping Dog
+1,0,0.006,Sleeping Dog
+1,0,-0.0067,Sure Thing / Lost Cause
+1,1,-0.0442,Persuadable
+1,0,-0.0293,Persuadable
+1,0,-0.0069,Sure Thing / Lost Cause
+0,0,0.0093,Sleeping Dog
+1,0,-0.0173,Sure Thing / Lost Cause
+1,0,0.0001,Sure Thing / Lost Cause
+0,0,-0.0171,Sure Thing / Lost Cause
+1,0,-0.0017,Sure Thing / Lost Cause
+1,0,0.0094,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,0.0202,Sleeping Dog
+0,0,0.0089,Sleeping Dog
+1,0,0.0158,Sleeping Dog
+0,0,0.0057,Sleeping Dog
+1,0,-0.0108,Sure Thing / Lost Cause
+1,0,0.0264,Sleeping Dog
+1,0,-0.0116,Sure Thing / Lost Cause
+1,0,0.011,Sleeping Dog
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,-0.0245,Persuadable
+1,0,0.01,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+1,0,0.0103,Sleeping Dog
+1,0,-0.0027,Sure Thing / Lost Cause
+1,0,0.0237,Sleeping Dog
+1,0,-0.0915,Persuadable
+0,0,-0.0654,Persuadable
+1,0,0.0133,Sleeping Dog
+1,0,0.0055,Sleeping Dog
+1,0,0.0149,Sleeping Dog
+0,0,0.0139,Sleeping Dog
+1,0,0.0034,Sleeping Dog
+1,0,-0.0611,Persuadable
+0,0,-0.0181,Sure Thing / Lost Cause
+0,0,0.0097,Sleeping Dog
+1,0,-0.0048,Sure Thing / Lost Cause
+1,0,0.0142,Sleeping Dog
+0,0,-0.0015,Sure Thing / Lost Cause
+1,1,-0.1112,Persuadable
+0,0,0.0053,Sleeping Dog
+0,0,-0.0101,Sure Thing / Lost Cause
+1,0,0.0107,Sleeping Dog
+1,1,0.0116,Sleeping Dog
+1,0,-0.0295,Persuadable
+0,0,0.0105,Sleeping Dog
+1,0,-0.0106,Sure Thing / Lost Cause
+1,0,-0.022,Persuadable
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,-0.0307,Persuadable
+0,0,0.003,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,-0.0086,Sure Thing / Lost Cause
+1,0,0.0081,Sleeping Dog
+1,0,-0.0197,Sure Thing / Lost Cause
+1,0,-0.0183,Sure Thing / Lost Cause
+1,0,0.0448,Sleeping Dog
+1,0,0.0066,Sleeping Dog
+1,0,-0.0634,Persuadable
+1,0,-0.017,Sure Thing / Lost Cause
+1,0,0.0165,Sleeping Dog
+1,0,-0.0837,Persuadable
+1,0,0.0092,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+1,0,-0.0261,Persuadable
+1,0,-0.0266,Persuadable
+1,0,0.0121,Sleeping Dog
+1,0,0.0271,Sleeping Dog
+1,0,0.0095,Sleeping Dog
+1,0,0.0033,Sleeping Dog
+0,0,0.0042,Sleeping Dog
+1,0,0.0137,Sleeping Dog
+0,0,0.0016,Sleeping Dog
+1,0,-0.025,Persuadable
+1,0,-0.0585,Persuadable
+1,0,0.0019,Sleeping Dog
+1,0,-0.0116,Sure Thing / Lost Cause
+1,0,-0.0754,Persuadable
+1,0,-0.0025,Sure Thing / Lost Cause
+1,0,-0.0485,Persuadable
+1,0,0.0166,Sleeping Dog
+1,0,-0.0029,Sure Thing / Lost Cause
+1,0,0.0078,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,0.0154,Sleeping Dog
+1,0,0.0063,Sleeping Dog
+1,0,0.005,Sleeping Dog
+1,0,-0.0008,Sure Thing / Lost Cause
+0,0,0.0017,Sleeping Dog
+1,0,-0.0077,Sure Thing / Lost Cause
+0,0,-0.0097,Sure Thing / Lost Cause
+0,0,-0.0278,Persuadable
+1,0,-0.0438,Persuadable
+1,0,0.0076,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,-0.0052,Sure Thing / Lost Cause
+1,0,0.0099,Sleeping Dog
+0,0,0.0122,Sleeping Dog
+1,0,-0.0098,Sure Thing / Lost Cause
+0,0,0.0157,Sleeping Dog
+1,0,0.0054,Sleeping Dog
+1,0,0.0199,Sleeping Dog
+1,0,0.0145,Sleeping Dog
+1,0,-0.0022,Sure Thing / Lost Cause
+1,0,-0.0068,Sure Thing / Lost Cause
+1,0,0.0049,Sleeping Dog
+1,0,-0.0421,Persuadable
+0,0,0.005,Sleeping Dog
+1,0,0.0136,Sleeping Dog
+1,0,0.0103,Sleeping Dog
+1,0,0.0079,Sleeping Dog
+0,1,-0.0548,Persuadable
+0,0,0.0235,Sleeping Dog
+1,1,0.013,Sleeping Dog
+1,0,0.0024,Sleeping Dog
+1,0,-0.0098,Sure Thing / Lost Cause
+1,0,-0.0331,Persuadable
+1,0,0.0125,Sleeping Dog
+0,0,0.0082,Sleeping Dog
+1,0,-0.0105,Sure Thing / Lost Cause
+1,0,0.0028,Sleeping Dog
+1,0,-0.0049,Sure Thing / Lost Cause
+1,0,0.013,Sleeping Dog
+1,0,0.0131,Sleeping Dog
+1,1,0.0149,Sleeping Dog
+0,0,0.0037,Sleeping Dog
+0,0,-0.1315,Persuadable
+1,0,0.0104,Sleeping Dog
+1,0,0.013,Sleeping Dog
+0,0,-0.001,Sure Thing / Lost Cause
+1,0,0.0104,Sleeping Dog
+1,0,-0.0289,Persuadable
+1,0,0.0107,Sleeping Dog
+1,0,0.0106,Sleeping Dog
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,-0.0017,Sure Thing / Lost Cause
+1,0,0.0068,Sleeping Dog
+1,0,-0.0214,Persuadable
+1,0,0.0131,Sleeping Dog
+1,0,0.0113,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+0,0,-0.0118,Sure Thing / Lost Cause
+1,0,0.0327,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+0,0,-0.0118,Sure Thing / Lost Cause
+0,0,-0.0022,Sure Thing / Lost Cause
+1,0,0.0045,Sleeping Dog
+1,0,-0.0313,Persuadable
+1,0,0.0036,Sleeping Dog
+1,0,-0.0052,Sure Thing / Lost Cause
+1,0,-0.0029,Sure Thing / Lost Cause
+1,0,0.0056,Sleeping Dog
+1,0,-0.0442,Persuadable
+1,0,-0.0056,Sure Thing / Lost Cause
+1,0,-0.0211,Persuadable
+1,0,0.011,Sleeping Dog
+1,0,-0.0369,Persuadable
+1,0,0.0124,Sleeping Dog
+1,0,-0.0473,Persuadable
+1,0,-0.0084,Sure Thing / Lost Cause
+1,0,0.02,Sleeping Dog
+1,0,0.0147,Sleeping Dog
+1,0,0.0229,Sleeping Dog
+1,1,-0.0015,Sure Thing / Lost Cause
+0,0,0.0212,Sleeping Dog
+1,0,0.005,Sleeping Dog
+1,0,-0.0843,Persuadable
+1,0,-0.0109,Sure Thing / Lost Cause
+1,0,0.0052,Sleeping Dog
+1,0,-0.0633,Persuadable
+1,0,-0.0526,Persuadable
+1,0,-0.0269,Persuadable
+1,0,0.004,Sleeping Dog
+1,0,-0.0756,Persuadable
+0,0,0.0049,Sleeping Dog
+0,0,0.0086,Sleeping Dog
+1,0,0.0088,Sleeping Dog
+1,0,-0.0028,Sure Thing / Lost Cause
+1,0,0.0166,Sleeping Dog
+1,0,0.0135,Sleeping Dog
+1,0,0.0057,Sleeping Dog
+1,0,-0.0123,Sure Thing / Lost Cause
+1,0,0.0062,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,0.0157,Sleeping Dog
+0,0,-0.0121,Sure Thing / Lost Cause
+0,0,0.0042,Sleeping Dog
+1,0,0.0021,Sleeping Dog
+1,0,0.0053,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,-0.0445,Persuadable
+0,0,0.0007,Sure Thing / Lost Cause
+1,0,-0.0084,Sure Thing / Lost Cause
+1,0,-0.0096,Sure Thing / Lost Cause
+1,0,0.0119,Sleeping Dog
+1,0,0.0058,Sleeping Dog
+0,0,-0.0013,Sure Thing / Lost Cause
+1,0,0.0141,Sleeping Dog
+0,0,0.0032,Sleeping Dog
+1,0,0.0063,Sleeping Dog
+0,0,-0.0754,Persuadable
+1,0,0.0082,Sleeping Dog
+0,0,0.0264,Sleeping Dog
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,-0.0185,Sure Thing / Lost Cause
+1,0,0.0167,Sleeping Dog
+1,0,0.0037,Sleeping Dog
+1,0,0.0033,Sleeping Dog
+1,0,-0.0028,Sure Thing / Lost Cause
+1,0,0.0085,Sleeping Dog
+0,0,0.0051,Sleeping Dog
+1,0,-0.0005,Sure Thing / Lost Cause
+1,0,-0.0114,Sure Thing / Lost Cause
+1,0,-0.1962,Persuadable
+1,0,0.0152,Sleeping Dog
+0,0,0.0079,Sleeping Dog
+0,0,0.0097,Sleeping Dog
+1,0,0.0098,Sleeping Dog
+0,0,0.0073,Sleeping Dog
+1,0,-0.0019,Sure Thing / Lost Cause
+1,0,0.0095,Sleeping Dog
+1,0,-0.0131,Sure Thing / Lost Cause
+1,0,0.0165,Sleeping Dog
+0,0,0.0148,Sleeping Dog
+1,0,0.0288,Sleeping Dog
+1,0,-0.1375,Persuadable
+0,0,0.0074,Sleeping Dog
+1,0,-0.0274,Persuadable
+1,0,0.0004,Sure Thing / Lost Cause
+1,0,0.0131,Sleeping Dog
+1,0,0.0347,Sleeping Dog
+1,0,0.0107,Sleeping Dog
+1,0,0.0013,Sleeping Dog
+1,0,0.0303,Sleeping Dog
+1,0,-0.028,Persuadable
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,-0.0142,Sure Thing / Lost Cause
+1,0,0.0028,Sleeping Dog
+1,0,-0.0089,Sure Thing / Lost Cause
+1,0,-0.0216,Persuadable
+0,0,-0.0293,Persuadable
+1,0,-0.0126,Sure Thing / Lost Cause
+0,0,0.009,Sleeping Dog
+0,1,0.0056,Sleeping Dog
+1,0,0.0092,Sleeping Dog
+1,0,-0.0057,Sure Thing / Lost Cause
+0,0,0.012,Sleeping Dog
+1,1,-0.0173,Sure Thing / Lost Cause
+0,0,-0.0604,Persuadable
+0,0,-0.0626,Persuadable
+1,0,-0.0006,Sure Thing / Lost Cause
+1,0,0.0274,Sleeping Dog
+0,0,0.0077,Sleeping Dog
+1,0,-0.0191,Sure Thing / Lost Cause
+1,0,-0.1397,Persuadable
+0,0,0.0027,Sleeping Dog
+1,0,0.0195,Sleeping Dog
+0,0,0.0065,Sleeping Dog
+0,0,0.0073,Sleeping Dog
+1,0,0.0104,Sleeping Dog
+1,0,-0.0473,Persuadable
+1,0,-0.0105,Sure Thing / Lost Cause
+1,0,0.01,Sleeping Dog
+1,0,-0.0068,Sure Thing / Lost Cause
+0,0,0.0255,Sleeping Dog
+1,0,0.0105,Sleeping Dog
+1,0,0.0093,Sleeping Dog
+1,0,0.0185,Sleeping Dog
+1,0,-0.013,Sure Thing / Lost Cause
+1,0,0.0018,Sleeping Dog
+1,0,0.0004,Sure Thing / Lost Cause
+1,0,-0.0424,Persuadable
+0,0,0.0004,Sure Thing / Lost Cause
+1,1,0.0079,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,0.0015,Sleeping Dog
+1,0,-0.0457,Persuadable
+1,0,0.0054,Sleeping Dog
+0,0,-0.0016,Sure Thing / Lost Cause
+1,0,-0.0504,Persuadable
+1,0,-0.0184,Sure Thing / Lost Cause
+1,0,0.0158,Sleeping Dog
+1,0,-0.0217,Persuadable
+0,0,-0.0186,Sure Thing / Lost Cause
+1,0,-0.0342,Persuadable
+1,0,0.0013,Sleeping Dog
+1,0,-0.0355,Persuadable
+1,0,-0.0207,Persuadable
+1,0,-0.0156,Sure Thing / Lost Cause
+1,0,0.0169,Sleeping Dog
+1,0,-0.0145,Sure Thing / Lost Cause
+1,0,-0.0285,Persuadable
+0,0,-0.0057,Sure Thing / Lost Cause
+1,1,-0.0078,Sure Thing / Lost Cause
+1,0,0.0034,Sleeping Dog
+1,0,-0.0441,Persuadable
+1,1,-0.0176,Sure Thing / Lost Cause
+1,0,0.0114,Sleeping Dog
+1,0,-0.0023,Sure Thing / Lost Cause
+0,0,-0.0377,Persuadable
+1,0,-0.1355,Persuadable
+1,0,-0.001,Sure Thing / Lost Cause
+1,0,-0.0173,Sure Thing / Lost Cause
+1,0,0.0143,Sleeping Dog
+1,0,0.0031,Sleeping Dog
+1,0,-0.0071,Sure Thing / Lost Cause
+1,0,0.0221,Sleeping Dog
+0,0,0.0062,Sleeping Dog
+0,0,0.0126,Sleeping Dog
+1,0,-0.0594,Persuadable
+0,0,0.0118,Sleeping Dog
+1,0,-0.0246,Persuadable
+1,0,-0.0284,Persuadable
+1,0,-0.0057,Sure Thing / Lost Cause
+1,0,0.0061,Sleeping Dog
+1,0,-0.0097,Sure Thing / Lost Cause
+1,0,-0.0321,Persuadable
+1,0,-0.0397,Persuadable
+0,0,0.0031,Sleeping Dog
+0,0,-0.0223,Persuadable
+1,0,-0.0194,Sure Thing / Lost Cause
+1,0,0.0094,Sleeping Dog
+1,0,-0.0258,Persuadable
+0,0,0.0024,Sleeping Dog
+1,0,0.0059,Sleeping Dog
+1,0,0.0095,Sleeping Dog
+0,0,-0.0038,Sure Thing / Lost Cause
+1,0,-0.002,Sure Thing / Lost Cause
+1,0,0.0074,Sleeping Dog
+0,0,0.0079,Sleeping Dog
+0,0,-0.0198,Sure Thing / Lost Cause
+1,0,0.0124,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+1,0,-0.0356,Persuadable
+1,0,-0.0056,Sure Thing / Lost Cause
+1,0,-0.0167,Sure Thing / Lost Cause
+0,1,-0.003,Sure Thing / Lost Cause
+1,0,0.0329,Sleeping Dog
+1,0,-0.0106,Sure Thing / Lost Cause
+1,0,0.0033,Sleeping Dog
+0,0,-0.0067,Sure Thing / Lost Cause
+1,0,-0.0096,Sure Thing / Lost Cause
+0,0,0.0135,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,-0.1663,Persuadable
+0,0,0.0053,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+1,0,0.0076,Sleeping Dog
+1,0,-0.034,Persuadable
+1,0,0.0451,Sleeping Dog
+0,0,-0.0374,Persuadable
+1,0,0.0036,Sleeping Dog
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,-0.0052,Sure Thing / Lost Cause
+1,0,-0.0069,Sure Thing / Lost Cause
+0,0,-0.061,Persuadable
+1,0,-0.0152,Sure Thing / Lost Cause
+1,0,-0.0344,Persuadable
+1,0,0.0011,Sleeping Dog
+1,0,-0.0076,Sure Thing / Lost Cause
+1,0,-0.0373,Persuadable
+1,0,-0.023,Persuadable
+1,0,0.0129,Sleeping Dog
+0,0,0.0152,Sleeping Dog
+1,0,0.0062,Sleeping Dog
+1,0,-0.012,Sure Thing / Lost Cause
+1,0,-0.0181,Sure Thing / Lost Cause
+1,0,0.0089,Sleeping Dog
+0,0,0.0043,Sleeping Dog
+1,0,0.0047,Sleeping Dog
+0,0,0.0108,Sleeping Dog
+1,0,-0.0159,Sure Thing / Lost Cause
+1,0,-0.0441,Persuadable
+1,0,0.0117,Sleeping Dog
+1,0,-0.0085,Sure Thing / Lost Cause
+1,0,-0.0057,Sure Thing / Lost Cause
+0,0,0.0146,Sleeping Dog
+1,0,0.0073,Sleeping Dog
+1,0,-0.0012,Sure Thing / Lost Cause
+0,0,0.0365,Sleeping Dog
+1,0,0.0072,Sleeping Dog
+1,0,0.0055,Sleeping Dog
+1,0,-0.0054,Sure Thing / Lost Cause
+1,0,-0.0141,Sure Thing / Lost Cause
+1,0,0.0011,Sleeping Dog
+1,0,0.003,Sleeping Dog
+1,0,-0.0268,Persuadable
+1,0,0.0081,Sleeping Dog
+1,0,0.0452,Sleeping Dog
+1,0,0.0203,Sleeping Dog
+1,0,0.0006,Sure Thing / Lost Cause
+0,0,0.0139,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+0,0,-0.0349,Persuadable
+0,0,0.0007,Sure Thing / Lost Cause
+1,0,0.0121,Sleeping Dog
+1,0,0.0034,Sleeping Dog
+1,0,-0.0359,Persuadable
+1,0,0.0396,Sleeping Dog
+0,0,0.0456,Sleeping Dog
+1,0,-0.0201,Persuadable
+1,0,-0.0315,Persuadable
+1,0,-0.0027,Sure Thing / Lost Cause
+1,0,0.0136,Sleeping Dog
+1,0,-0.0135,Sure Thing / Lost Cause
+1,0,0.0154,Sleeping Dog
+1,0,-0.0019,Sure Thing / Lost Cause
+1,0,0.0128,Sleeping Dog
+1,0,-0.0377,Persuadable
+0,0,-0.0245,Persuadable
+1,0,0.0124,Sleeping Dog
+1,0,-0.0046,Sure Thing / Lost Cause
+1,0,0.0128,Sleeping Dog
+1,0,-0.0095,Sure Thing / Lost Cause
+1,0,-0.0195,Sure Thing / Lost Cause
+1,0,0.0133,Sleeping Dog
+1,0,0.0071,Sleeping Dog
+0,0,0.0023,Sleeping Dog
+1,0,-0.004,Sure Thing / Lost Cause
+1,0,0.0125,Sleeping Dog
+1,0,-0.0129,Sure Thing / Lost Cause
+1,0,-0.1025,Persuadable
+1,0,0.0092,Sleeping Dog
+1,0,0.0174,Sleeping Dog
+1,0,0.0049,Sleeping Dog
+1,0,0.0077,Sleeping Dog
+1,0,-0.0384,Persuadable
+1,0,-0.0046,Sure Thing / Lost Cause
+1,0,-0.0098,Sure Thing / Lost Cause
+1,0,0.0058,Sleeping Dog
+1,0,-0.0267,Persuadable
+1,0,-0.002,Sure Thing / Lost Cause
+1,0,-0.0292,Persuadable
+0,0,-0.0002,Sure Thing / Lost Cause
+1,0,-0.0106,Sure Thing / Lost Cause
+1,0,0.0181,Sleeping Dog
+1,0,0.013,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+1,0,0.0017,Sleeping Dog
+1,1,-0.0872,Persuadable
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,0.0075,Sleeping Dog
+1,1,-0.0287,Persuadable
+1,0,0.0126,Sleeping Dog
+1,0,0.0423,Sleeping Dog
+1,0,-0.0364,Persuadable
+1,0,0.0098,Sleeping Dog
+0,0,0.0104,Sleeping Dog
+1,0,-0.0088,Sure Thing / Lost Cause
+1,0,-0.044,Persuadable
+1,0,-0.0161,Sure Thing / Lost Cause
+1,1,-0.0069,Sure Thing / Lost Cause
+1,0,0.0161,Sleeping Dog
+1,0,-0.0406,Persuadable
+1,0,-0.0124,Sure Thing / Lost Cause
+1,0,-0.002,Sure Thing / Lost Cause
+1,0,0.0187,Sleeping Dog
+1,0,-0.0887,Persuadable
+1,0,-0.0116,Sure Thing / Lost Cause
+0,0,0.0163,Sleeping Dog
+0,0,0.0057,Sleeping Dog
+1,0,0.0022,Sleeping Dog
+1,0,-0.0255,Persuadable
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,0.002,Sleeping Dog
+0,0,0.0147,Sleeping Dog
+0,0,0.0044,Sleeping Dog
+0,0,-0.0317,Persuadable
+0,1,0.0306,Sleeping Dog
+1,1,-0.0159,Sure Thing / Lost Cause
+1,0,0.0154,Sleeping Dog
+1,0,-0.0046,Sure Thing / Lost Cause
+0,0,0.0191,Sleeping Dog
+1,0,0.004,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+1,0,0.0053,Sleeping Dog
+0,0,0.0042,Sleeping Dog
+1,0,-0.0018,Sure Thing / Lost Cause
+1,0,-0.0191,Sure Thing / Lost Cause
+1,0,0.0068,Sleeping Dog
+1,0,0.0102,Sleeping Dog
+1,0,-0.1036,Persuadable
+0,0,-0.0032,Sure Thing / Lost Cause
+1,0,-0.0149,Sure Thing / Lost Cause
+1,0,-0.0213,Persuadable
+1,0,0.0355,Sleeping Dog
+1,0,0.0102,Sleeping Dog
+1,0,-0.1067,Persuadable
+0,0,-0.0272,Persuadable
+0,0,0.0067,Sleeping Dog
+1,0,0.0122,Sleeping Dog
+1,0,-0.0037,Sure Thing / Lost Cause
+0,1,0.0023,Sleeping Dog
+1,0,0.0145,Sleeping Dog
+0,1,-0.0038,Sure Thing / Lost Cause
+1,0,-0.0181,Sure Thing / Lost Cause
+0,0,-0.0505,Persuadable
+1,0,0.011,Sleeping Dog
+1,0,-0.0306,Persuadable
+1,0,-0.0071,Sure Thing / Lost Cause
+1,0,-0.0795,Persuadable
+1,0,0.0074,Sleeping Dog
+1,0,0.001,Sure Thing / Lost Cause
+1,0,-0.0152,Sure Thing / Lost Cause
+1,0,-0.0324,Persuadable
+1,0,0.0038,Sleeping Dog
+1,0,0.0,Sure Thing / Lost Cause
+1,0,-0.0374,Persuadable
+1,0,0.0044,Sleeping Dog
+0,0,-0.0019,Sure Thing / Lost Cause
+1,0,-0.0123,Sure Thing / Lost Cause
+1,0,-0.0284,Persuadable
+1,0,-0.0117,Sure Thing / Lost Cause
+0,0,0.0032,Sleeping Dog
+1,0,-0.0137,Sure Thing / Lost Cause
+1,0,-0.0369,Persuadable
+1,0,0.0112,Sleeping Dog
+1,0,0.004,Sleeping Dog
+1,0,-0.0113,Sure Thing / Lost Cause
+0,0,-0.0708,Persuadable
+1,0,-0.0202,Persuadable
+1,0,0.008,Sleeping Dog
+1,0,0.0025,Sleeping Dog
+1,0,-0.1315,Persuadable
+1,0,0.0172,Sleeping Dog
+0,0,-0.0022,Sure Thing / Lost Cause
+1,0,0.0098,Sleeping Dog
+0,0,0.007,Sleeping Dog
+1,0,-0.0044,Sure Thing / Lost Cause
+1,0,0.0479,Sleeping Dog
+1,0,-0.0387,Persuadable
+1,0,-0.0272,Persuadable
+0,0,0.0081,Sleeping Dog
+1,0,0.0171,Sleeping Dog
+1,0,-0.0224,Persuadable
+1,0,0.0121,Sleeping Dog
+1,0,0.0032,Sleeping Dog
+0,0,0.0017,Sleeping Dog
+1,0,-0.0063,Sure Thing / Lost Cause
+1,0,0.0037,Sleeping Dog
+1,0,0.0174,Sleeping Dog
+1,0,-0.0432,Persuadable
+0,0,0.0352,Sleeping Dog
+1,0,0.0083,Sleeping Dog
+1,0,-0.0139,Sure Thing / Lost Cause
+1,0,0.013,Sleeping Dog
+1,0,0.0167,Sleeping Dog
+1,0,0.0066,Sleeping Dog
+1,0,0.0012,Sleeping Dog
+1,0,-0.0218,Persuadable
+1,0,0.0053,Sleeping Dog
+0,0,-0.0707,Persuadable
+1,0,0.0121,Sleeping Dog
+0,0,-0.0093,Sure Thing / Lost Cause
+1,0,-0.0686,Persuadable
+1,0,0.004,Sleeping Dog
+1,0,0.0427,Sleeping Dog
+1,0,0.0104,Sleeping Dog
+1,0,0.0181,Sleeping Dog
+0,0,-0.0194,Sure Thing / Lost Cause
+1,0,-0.0313,Persuadable
+1,0,0.0127,Sleeping Dog
+1,0,-0.0832,Persuadable
+1,0,0.0086,Sleeping Dog
+1,1,-0.0065,Sure Thing / Lost Cause
+0,0,-0.0578,Persuadable
+1,0,0.01,Sleeping Dog
+1,0,-0.0013,Sure Thing / Lost Cause
+1,0,0.0152,Sleeping Dog
+1,0,-0.0039,Sure Thing / Lost Cause
+1,0,0.0127,Sleeping Dog
+1,0,-0.0283,Persuadable
+1,0,0.0068,Sleeping Dog
+1,0,0.0037,Sleeping Dog
+1,0,0.0105,Sleeping Dog
+1,0,-0.0076,Sure Thing / Lost Cause
+1,0,-0.0581,Persuadable
+1,0,0.0056,Sleeping Dog
+1,0,0.0005,Sure Thing / Lost Cause
+1,0,0.0096,Sleeping Dog
+1,0,0.0121,Sleeping Dog
+1,0,0.0022,Sleeping Dog
+1,1,0.0073,Sleeping Dog
+0,0,-0.0307,Persuadable
+1,0,-0.0263,Persuadable
+1,0,0.0092,Sleeping Dog
+1,0,0.0094,Sleeping Dog
+1,0,-0.0345,Persuadable
+1,0,-0.0678,Persuadable
+1,0,-0.0113,Sure Thing / Lost Cause
+1,0,-0.0176,Sure Thing / Lost Cause
+1,0,0.0152,Sleeping Dog
+1,0,-0.0313,Persuadable
+1,0,0.0097,Sleeping Dog
+1,0,-0.1484,Persuadable
+1,0,0.0035,Sleeping Dog
+1,0,-0.008,Sure Thing / Lost Cause
+1,0,0.0014,Sleeping Dog
+0,0,0.0167,Sleeping Dog
+0,0,0.0122,Sleeping Dog
+1,0,0.0027,Sleeping Dog
+1,0,-0.0198,Sure Thing / Lost Cause
+1,0,0.0132,Sleeping Dog
+0,0,0.0025,Sleeping Dog
+1,0,-0.143,Persuadable
+1,0,0.0031,Sleeping Dog
+0,0,0.0049,Sleeping Dog
+0,0,0.0056,Sleeping Dog
+1,0,-0.0088,Sure Thing / Lost Cause
+1,0,0.0061,Sleeping Dog
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,-0.007,Sure Thing / Lost Cause
+1,0,0.0175,Sleeping Dog
+1,0,-0.0194,Sure Thing / Lost Cause
+1,0,0.0056,Sleeping Dog
+1,0,0.0027,Sleeping Dog
+0,0,-0.0005,Sure Thing / Lost Cause
+1,0,0.0081,Sleeping Dog
+1,0,0.008,Sleeping Dog
+1,0,-0.0113,Sure Thing / Lost Cause
+1,0,0.0252,Sleeping Dog
+0,0,0.0137,Sleeping Dog
+0,0,-0.0216,Persuadable
+1,0,0.013,Sleeping Dog
+1,0,0.0175,Sleeping Dog
+1,0,0.0006,Sure Thing / Lost Cause
+0,0,0.0152,Sleeping Dog
+1,0,-0.0601,Persuadable
+1,0,0.0225,Sleeping Dog
+1,0,0.0177,Sleeping Dog
+1,1,-0.0319,Persuadable
+0,0,0.0449,Sleeping Dog
+1,0,-0.0171,Sure Thing / Lost Cause
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,0.0141,Sleeping Dog
+1,1,-0.0286,Persuadable
+0,0,0.0097,Sleeping Dog
+0,0,-0.0034,Sure Thing / Lost Cause
+1,0,-0.014,Sure Thing / Lost Cause
+0,0,0.0109,Sleeping Dog
+1,0,-0.0385,Persuadable
+1,1,-0.0366,Persuadable
+1,0,0.0132,Sleeping Dog
+1,0,-0.0057,Sure Thing / Lost Cause
+1,0,0.009,Sleeping Dog
+1,0,-0.0278,Persuadable
+1,1,0.012,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+1,0,-0.0673,Persuadable
+1,0,0.0023,Sleeping Dog
+1,1,0.0057,Sleeping Dog
+1,0,-0.0448,Persuadable
+1,0,0.0174,Sleeping Dog
+1,0,0.0076,Sleeping Dog
+1,0,0.0114,Sleeping Dog
+1,0,-0.044,Persuadable
+0,0,-0.012,Sure Thing / Lost Cause
+1,0,-0.0225,Persuadable
+0,0,-0.0622,Persuadable
+1,0,-0.0145,Sure Thing / Lost Cause
+1,0,-0.0139,Sure Thing / Lost Cause
+0,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0064,Sure Thing / Lost Cause
+1,0,-0.0041,Sure Thing / Lost Cause
+1,0,-0.0035,Sure Thing / Lost Cause
+1,0,0.0022,Sleeping Dog
+0,0,0.0088,Sleeping Dog
+1,0,0.0156,Sleeping Dog
+1,0,0.0123,Sleeping Dog
+1,1,0.0156,Sleeping Dog
+1,0,0.015,Sleeping Dog
+1,0,0.0165,Sleeping Dog
+1,0,0.0034,Sleeping Dog
+1,0,-0.0073,Sure Thing / Lost Cause
+1,0,-0.0013,Sure Thing / Lost Cause
+1,0,0.0124,Sleeping Dog
+0,0,-0.0128,Sure Thing / Lost Cause
+0,0,0.0475,Sleeping Dog
+1,0,-0.0021,Sure Thing / Lost Cause
+1,0,-0.0437,Persuadable
+1,0,0.0085,Sleeping Dog
+1,0,0.0161,Sleeping Dog
+1,0,-0.0232,Persuadable
+1,0,-0.0085,Sure Thing / Lost Cause
+1,0,0.0058,Sleeping Dog
+1,0,-0.0008,Sure Thing / Lost Cause
+0,0,-0.0303,Persuadable
+1,0,0.0135,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+1,0,-0.0232,Persuadable
+0,0,0.0081,Sleeping Dog
+1,0,0.0172,Sleeping Dog
+0,0,-0.0035,Sure Thing / Lost Cause
+1,0,-0.0103,Sure Thing / Lost Cause
+1,0,0.0224,Sleeping Dog
+1,0,-0.0151,Sure Thing / Lost Cause
+1,0,0.0028,Sleeping Dog
+1,0,0.0215,Sleeping Dog
+1,0,-0.015,Sure Thing / Lost Cause
+0,0,0.0144,Sleeping Dog
+0,0,0.0108,Sleeping Dog
+1,0,-0.0009,Sure Thing / Lost Cause
+0,0,-0.0326,Persuadable
+0,0,-0.0309,Persuadable
+1,0,0.0099,Sleeping Dog
+1,0,-0.0188,Sure Thing / Lost Cause
+1,0,0.0071,Sleeping Dog
+1,0,-0.0077,Sure Thing / Lost Cause
+1,0,-0.0014,Sure Thing / Lost Cause
+1,0,0.014,Sleeping Dog
+1,1,-0.0383,Persuadable
+1,0,0.0113,Sleeping Dog
+1,0,-0.0043,Sure Thing / Lost Cause
+0,0,0.0028,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+1,0,-0.0219,Persuadable
+1,0,-0.0052,Sure Thing / Lost Cause
+1,0,0.0054,Sleeping Dog
+1,0,-0.0021,Sure Thing / Lost Cause
+1,0,-0.0041,Sure Thing / Lost Cause
+1,0,0.0041,Sleeping Dog
+1,0,-0.064,Persuadable
+1,0,0.0016,Sleeping Dog
+1,0,-0.0757,Persuadable
+0,0,-0.0064,Sure Thing / Lost Cause
+1,0,0.0147,Sleeping Dog
+0,0,0.0156,Sleeping Dog
+1,0,0.0395,Sleeping Dog
+1,0,0.0075,Sleeping Dog
+0,0,-0.0035,Sure Thing / Lost Cause
+0,0,-0.0118,Sure Thing / Lost Cause
+0,0,0.0001,Sure Thing / Lost Cause
+0,0,-0.0127,Sure Thing / Lost Cause
+0,0,-0.043,Persuadable
+0,0,0.017,Sleeping Dog
+0,0,0.0048,Sleeping Dog
+1,1,0.008,Sleeping Dog
+0,0,-0.0172,Sure Thing / Lost Cause
+0,1,-0.0117,Sure Thing / Lost Cause
+1,0,0.0058,Sleeping Dog
+0,0,0.0017,Sleeping Dog
+1,0,-0.0185,Sure Thing / Lost Cause
+1,0,0.011,Sleeping Dog
+0,0,-0.0042,Sure Thing / Lost Cause
+1,0,0.0084,Sleeping Dog
+1,0,-0.1546,Persuadable
+1,0,0.0044,Sleeping Dog
+1,0,0.0138,Sleeping Dog
+1,0,-0.0322,Persuadable
+0,0,-0.0138,Sure Thing / Lost Cause
+1,0,-0.0103,Sure Thing / Lost Cause
+0,0,0.0022,Sleeping Dog
+1,0,0.0016,Sleeping Dog
+1,0,0.007,Sleeping Dog
+0,0,0.0033,Sleeping Dog
+0,0,-0.0032,Sure Thing / Lost Cause
+1,0,-0.0008,Sure Thing / Lost Cause
+0,0,0.0029,Sleeping Dog
+1,0,-0.0338,Persuadable
+1,0,-0.0673,Persuadable
+1,0,-0.0381,Persuadable
+1,0,-0.0215,Persuadable
+1,0,-0.0344,Persuadable
+1,0,0.0009,Sure Thing / Lost Cause
+1,0,0.0142,Sleeping Dog
+1,0,-0.0015,Sure Thing / Lost Cause
+1,0,-0.047,Persuadable
+1,0,0.011,Sleeping Dog
+0,0,0.0034,Sleeping Dog
+1,0,0.0045,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+1,0,-0.0551,Persuadable
+1,0,-0.0348,Persuadable
+1,0,0.013,Sleeping Dog
+1,0,0.0205,Sleeping Dog
+1,0,-0.007,Sure Thing / Lost Cause
+1,0,-0.0147,Sure Thing / Lost Cause
+1,0,-0.0635,Persuadable
+1,0,-0.0448,Persuadable
+1,1,0.0108,Sleeping Dog
+1,0,-0.0043,Sure Thing / Lost Cause
+0,0,-0.0031,Sure Thing / Lost Cause
+1,0,0.0067,Sleeping Dog
+1,0,-0.1032,Persuadable
+1,0,-0.0258,Persuadable
+1,0,-0.0726,Persuadable
+0,0,-0.0188,Sure Thing / Lost Cause
+1,0,-0.0027,Sure Thing / Lost Cause
+0,0,-0.0802,Persuadable
+1,0,-0.0398,Persuadable
+1,0,-0.0054,Sure Thing / Lost Cause
+0,0,-0.0158,Sure Thing / Lost Cause
+1,0,-0.0023,Sure Thing / Lost Cause
+0,0,0.0099,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+1,0,-0.1109,Persuadable
+1,0,0.0068,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+1,0,0.0092,Sleeping Dog
+1,0,0.0115,Sleeping Dog
+0,0,0.039,Sleeping Dog
+0,0,0.0116,Sleeping Dog
+1,0,-0.0043,Sure Thing / Lost Cause
+1,0,0.0109,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+0,0,0.0155,Sleeping Dog
+1,0,0.0242,Sleeping Dog
+1,0,0.0052,Sleeping Dog
+1,0,-0.0118,Sure Thing / Lost Cause
+0,0,0.0142,Sleeping Dog
+1,0,0.0126,Sleeping Dog
+1,0,0.0147,Sleeping Dog
+1,0,-0.0241,Persuadable
+1,0,-0.0377,Persuadable
+1,0,-0.0098,Sure Thing / Lost Cause
+0,0,-0.0003,Sure Thing / Lost Cause
+0,0,-0.0443,Persuadable
+0,0,0.0124,Sleeping Dog
+1,0,-0.0034,Sure Thing / Lost Cause
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,-0.002,Sure Thing / Lost Cause
+1,0,0.0334,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+1,0,-0.0017,Sure Thing / Lost Cause
+0,0,-0.0173,Sure Thing / Lost Cause
+1,0,-0.0777,Persuadable
+1,0,0.0164,Sleeping Dog
+1,0,0.0046,Sleeping Dog
+1,0,0.0009,Sure Thing / Lost Cause
+1,0,-0.0145,Sure Thing / Lost Cause
+0,0,-0.04,Persuadable
+1,0,-0.0402,Persuadable
+0,0,-0.0293,Persuadable
+1,0,0.007,Sleeping Dog
+1,0,-0.0086,Sure Thing / Lost Cause
+1,0,0.0085,Sleeping Dog
+1,0,-0.0593,Persuadable
+1,0,-0.0218,Persuadable
+1,0,-0.0603,Persuadable
+1,0,0.0101,Sleeping Dog
+1,0,0.0165,Sleeping Dog
+1,0,0.0322,Sleeping Dog
+1,0,0.004,Sleeping Dog
+0,0,-0.0005,Sure Thing / Lost Cause
+1,0,-0.007,Sure Thing / Lost Cause
+1,0,0.0134,Sleeping Dog
+1,0,0.0321,Sleeping Dog
+0,0,-0.0257,Persuadable
+1,0,-0.0119,Sure Thing / Lost Cause
+1,0,-0.0053,Sure Thing / Lost Cause
+1,0,-0.0035,Sure Thing / Lost Cause
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,0.002,Sleeping Dog
+0,0,0.0097,Sleeping Dog
+1,0,0.0014,Sleeping Dog
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,-0.0084,Sure Thing / Lost Cause
+1,0,0.0101,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+0,0,0.0064,Sleeping Dog
+1,0,0.0126,Sleeping Dog
+1,0,-0.0082,Sure Thing / Lost Cause
+1,0,-0.0162,Sure Thing / Lost Cause
+1,0,-0.0704,Persuadable
+0,0,0.0188,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.006,Sure Thing / Lost Cause
+1,0,-0.0616,Persuadable
+0,0,-0.0009,Sure Thing / Lost Cause
+0,0,0.014,Sleeping Dog
+1,0,-0.019,Sure Thing / Lost Cause
+0,0,0.0084,Sleeping Dog
+1,0,0.0119,Sleeping Dog
+1,0,0.0114,Sleeping Dog
+0,0,0.0065,Sleeping Dog
+1,0,0.0038,Sleeping Dog
+1,0,0.015,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+0,0,0.0052,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+0,0,0.0405,Sleeping Dog
+1,0,-0.0557,Persuadable
+1,0,0.0235,Sleeping Dog
+1,0,0.0017,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+0,0,0.0146,Sleeping Dog
+0,0,-0.0157,Sure Thing / Lost Cause
+0,1,0.0065,Sleeping Dog
+1,0,0.0073,Sleeping Dog
+0,0,0.007,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,0.0076,Sleeping Dog
+1,0,0.002,Sleeping Dog
+1,0,-0.0017,Sure Thing / Lost Cause
+1,0,0.0121,Sleeping Dog
+1,0,0.0064,Sleeping Dog
+1,0,-0.0364,Persuadable
+1,0,0.0045,Sleeping Dog
+0,0,0.0121,Sleeping Dog
+1,0,0.006,Sleeping Dog
+1,0,-0.0184,Sure Thing / Lost Cause
+1,0,0.0097,Sleeping Dog
+0,0,-0.013,Sure Thing / Lost Cause
+1,0,0.0103,Sleeping Dog
+1,0,0.0035,Sleeping Dog
+0,1,0.0053,Sleeping Dog
+0,0,-0.0276,Persuadable
+1,0,-0.0087,Sure Thing / Lost Cause
+1,0,0.0076,Sleeping Dog
+1,0,-0.0217,Persuadable
+1,0,-0.0002,Sure Thing / Lost Cause
+1,1,-0.0031,Sure Thing / Lost Cause
+1,0,-0.0284,Persuadable
+1,0,0.0051,Sleeping Dog
+1,0,0.0081,Sleeping Dog
+0,0,-0.0068,Sure Thing / Lost Cause
+1,0,0.0041,Sleeping Dog
+0,0,-0.0118,Sure Thing / Lost Cause
+1,0,0.004,Sleeping Dog
+0,0,0.0138,Sleeping Dog
+1,0,-0.0212,Persuadable
+1,0,-0.0199,Sure Thing / Lost Cause
+1,0,-0.0561,Persuadable
+1,1,0.0168,Sleeping Dog
+0,0,0.0058,Sleeping Dog
+1,0,0.0148,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,-0.0041,Sure Thing / Lost Cause
+1,0,0.0141,Sleeping Dog
+1,0,0.0325,Sleeping Dog
+1,0,-0.0091,Sure Thing / Lost Cause
+1,0,-0.0224,Persuadable
+1,0,-0.0585,Persuadable
+1,0,0.004,Sleeping Dog
+0,0,0.0233,Sleeping Dog
+0,0,0.0022,Sleeping Dog
+0,0,-0.0478,Persuadable
+0,0,0.0123,Sleeping Dog
+1,0,0.0094,Sleeping Dog
+0,1,0.0141,Sleeping Dog
+1,0,0.0074,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,0.0124,Sleeping Dog
+1,0,-0.0339,Persuadable
+1,0,0.0038,Sleeping Dog
+0,0,-0.026,Persuadable
+0,0,0.0131,Sleeping Dog
+0,0,0.0134,Sleeping Dog
+1,0,-0.0266,Persuadable
+1,0,-0.0005,Sure Thing / Lost Cause
+1,0,-0.025,Persuadable
+1,0,0.0448,Sleeping Dog
+1,0,-0.0181,Sure Thing / Lost Cause
+1,0,0.0081,Sleeping Dog
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,-0.0339,Persuadable
+1,0,0.0125,Sleeping Dog
+1,0,0.0144,Sleeping Dog
+0,0,-0.001,Sure Thing / Lost Cause
+1,0,0.0013,Sleeping Dog
+1,0,0.0002,Sure Thing / Lost Cause
+1,0,0.0087,Sleeping Dog
+1,0,0.0047,Sleeping Dog
+1,0,-0.0084,Sure Thing / Lost Cause
+0,0,-0.0397,Persuadable
+1,0,-0.0005,Sure Thing / Lost Cause
+0,0,0.0079,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+1,0,0.0435,Sleeping Dog
+1,0,-0.0098,Sure Thing / Lost Cause
+0,0,-0.0208,Persuadable
+1,0,0.0103,Sleeping Dog
+1,0,0.0169,Sleeping Dog
+1,0,-0.0485,Persuadable
+1,0,-0.0087,Sure Thing / Lost Cause
+0,0,0.0048,Sleeping Dog
+1,0,-0.0343,Persuadable
+0,0,0.0144,Sleeping Dog
+1,0,0.0101,Sleeping Dog
+1,0,0.0124,Sleeping Dog
+1,0,0.0037,Sleeping Dog
+1,0,-0.0183,Sure Thing / Lost Cause
+1,0,0.0002,Sure Thing / Lost Cause
+0,0,0.0119,Sleeping Dog
+1,0,0.012,Sleeping Dog
+1,0,-0.0065,Sure Thing / Lost Cause
+1,0,0.0083,Sleeping Dog
+1,0,-0.0078,Sure Thing / Lost Cause
+0,0,0.0036,Sleeping Dog
+1,0,0.0148,Sleeping Dog
+0,0,0.0101,Sleeping Dog
+0,0,0.0049,Sleeping Dog
+0,0,0.0218,Sleeping Dog
+0,0,-0.0588,Persuadable
+1,0,-0.027,Persuadable
+1,0,0.0073,Sleeping Dog
+1,0,0.0059,Sleeping Dog
+1,0,0.0058,Sleeping Dog
+1,0,-0.0124,Sure Thing / Lost Cause
+1,0,-0.0548,Persuadable
+1,0,-0.0009,Sure Thing / Lost Cause
+1,0,-0.0776,Persuadable
+1,0,0.0056,Sleeping Dog
+1,0,0.0179,Sleeping Dog
+0,0,0.0115,Sleeping Dog
+0,0,0.0042,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,0.0001,Sure Thing / Lost Cause
+1,0,-0.0015,Sure Thing / Lost Cause
+1,0,-0.0054,Sure Thing / Lost Cause
+1,0,0.0091,Sleeping Dog
+0,0,-0.008,Sure Thing / Lost Cause
+0,0,0.0304,Sleeping Dog
+1,0,0.0121,Sleeping Dog
+1,0,0.0152,Sleeping Dog
+1,0,0.0107,Sleeping Dog
+1,1,-0.0101,Sure Thing / Lost Cause
+1,1,-0.0596,Persuadable
+0,0,-0.0017,Sure Thing / Lost Cause
+1,0,-0.0156,Sure Thing / Lost Cause
+0,0,-0.0098,Sure Thing / Lost Cause
+1,1,-0.0018,Sure Thing / Lost Cause
+1,0,-0.0201,Persuadable
+1,0,-0.1705,Persuadable
+0,0,-0.0007,Sure Thing / Lost Cause
+1,0,-0.0044,Sure Thing / Lost Cause
+1,0,0.0125,Sleeping Dog
+0,0,0.0109,Sleeping Dog
+1,0,0.0037,Sleeping Dog
+1,0,-0.0291,Persuadable
+1,0,-0.0215,Persuadable
+1,0,-0.0324,Persuadable
+0,0,0.0013,Sleeping Dog
+1,0,-0.0319,Persuadable
+0,0,0.0153,Sleeping Dog
+0,0,0.0023,Sleeping Dog
+1,0,0.0105,Sleeping Dog
+1,0,-0.0009,Sure Thing / Lost Cause
+1,0,0.0095,Sleeping Dog
+1,0,0.0089,Sleeping Dog
+1,0,0.0037,Sleeping Dog
+0,0,-0.0269,Persuadable
+0,0,0.0083,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,-0.0417,Persuadable
+1,0,-0.0041,Sure Thing / Lost Cause
+1,0,0.0026,Sleeping Dog
+1,0,-0.0006,Sure Thing / Lost Cause
+0,0,-0.0105,Sure Thing / Lost Cause
+1,0,0.0118,Sleeping Dog
+1,0,0.0075,Sleeping Dog
+1,0,-0.001,Sure Thing / Lost Cause
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,-0.0125,Sure Thing / Lost Cause
+1,0,-0.0346,Persuadable
+0,0,0.0134,Sleeping Dog
+1,0,-0.0247,Persuadable
+1,0,-0.0206,Persuadable
+1,0,-0.0075,Sure Thing / Lost Cause
+1,0,0.0381,Sleeping Dog
+1,0,-0.0098,Sure Thing / Lost Cause
+1,0,-0.0057,Sure Thing / Lost Cause
+0,0,-0.0021,Sure Thing / Lost Cause
+1,0,0.0171,Sleeping Dog
+1,0,-0.0092,Sure Thing / Lost Cause
+1,0,0.0071,Sleeping Dog
+0,0,0.0068,Sleeping Dog
+1,0,-0.0004,Sure Thing / Lost Cause
+1,0,0.0216,Sleeping Dog
+0,1,-0.0002,Sure Thing / Lost Cause
+1,0,-0.0625,Persuadable
+1,0,0.0092,Sleeping Dog
+0,0,-0.0198,Sure Thing / Lost Cause
+1,0,0.0094,Sleeping Dog
+1,0,-0.0638,Persuadable
+1,0,-0.011,Sure Thing / Lost Cause
+1,1,0.0195,Sleeping Dog
+1,0,-0.0185,Sure Thing / Lost Cause
+1,0,0.0109,Sleeping Dog
+1,0,0.0139,Sleeping Dog
+1,0,-0.019,Sure Thing / Lost Cause
+0,0,0.0105,Sleeping Dog
+0,0,0.008,Sleeping Dog
+1,0,-0.023,Persuadable
+1,0,-0.0138,Sure Thing / Lost Cause
+1,0,0.0079,Sleeping Dog
+1,0,-0.0407,Persuadable
+1,0,0.0192,Sleeping Dog
+1,0,0.0071,Sleeping Dog
+0,1,-0.0347,Persuadable
+1,0,0.0376,Sleeping Dog
+1,0,0.0053,Sleeping Dog
+1,0,0.0081,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+1,0,-0.0054,Sure Thing / Lost Cause
+1,0,-0.0025,Sure Thing / Lost Cause
+1,0,-0.0049,Sure Thing / Lost Cause
+0,0,-0.0012,Sure Thing / Lost Cause
+1,0,0.0111,Sleeping Dog
+1,0,0.0141,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+0,0,0.0087,Sleeping Dog
+1,0,0.0122,Sleeping Dog
+0,0,0.0036,Sleeping Dog
+0,0,-0.0133,Sure Thing / Lost Cause
+1,0,-0.0232,Persuadable
+1,0,0.0104,Sleeping Dog
+1,0,0.0098,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+1,0,-0.0519,Persuadable
+1,0,-0.06,Persuadable
+1,0,-0.0205,Persuadable
+1,0,-0.0718,Persuadable
+1,0,-0.004,Sure Thing / Lost Cause
+1,0,0.0057,Sleeping Dog
+1,0,0.008,Sleeping Dog
+1,0,0.036,Sleeping Dog
+1,0,0.017,Sleeping Dog
+0,0,0.0121,Sleeping Dog
+1,0,0.0023,Sleeping Dog
+1,0,0.0122,Sleeping Dog
+1,0,-0.0057,Sure Thing / Lost Cause
+1,0,-0.0235,Persuadable
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,-0.0912,Persuadable
+1,0,-0.0008,Sure Thing / Lost Cause
+0,0,-0.0068,Sure Thing / Lost Cause
+1,0,0.0001,Sure Thing / Lost Cause
+1,0,-0.0018,Sure Thing / Lost Cause
+1,0,0.0145,Sleeping Dog
+1,0,-0.0161,Sure Thing / Lost Cause
+1,0,-0.0513,Persuadable
+1,0,-0.0444,Persuadable
+1,0,0.0101,Sleeping Dog
+0,0,-0.0426,Persuadable
+1,0,0.0126,Sleeping Dog
+1,0,0.0072,Sleeping Dog
+1,0,-0.0075,Sure Thing / Lost Cause
+1,0,0.0146,Sleeping Dog
+0,0,-0.0189,Sure Thing / Lost Cause
+1,0,0.0061,Sleeping Dog
+0,0,0.0112,Sleeping Dog
+1,0,0.0168,Sleeping Dog
+1,0,-0.0214,Persuadable
+1,0,-0.2,Persuadable
+1,0,-0.0027,Sure Thing / Lost Cause
+0,0,0.0091,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+0,0,0.0052,Sleeping Dog
+1,0,0.0045,Sleeping Dog
+1,0,0.0026,Sleeping Dog
+1,0,0.0179,Sleeping Dog
+1,0,0.0065,Sleeping Dog
+1,0,-0.004,Sure Thing / Lost Cause
+0,0,-0.0098,Sure Thing / Lost Cause
+1,0,-0.0045,Sure Thing / Lost Cause
+1,0,0.0121,Sleeping Dog
+1,0,0.0161,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,0.0062,Sleeping Dog
+0,1,-0.0693,Persuadable
+1,0,0.008,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+0,0,0.0229,Sleeping Dog
+1,0,0.0098,Sleeping Dog
+1,0,0.0064,Sleeping Dog
+1,0,0.0108,Sleeping Dog
+1,0,-0.0198,Sure Thing / Lost Cause
+1,0,0.0122,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+1,0,0.0103,Sleeping Dog
+1,0,0.0014,Sleeping Dog
+1,0,0.009,Sleeping Dog
+0,0,-0.0062,Sure Thing / Lost Cause
+1,0,0.0157,Sleeping Dog
+0,1,-0.0154,Sure Thing / Lost Cause
+1,0,0.0076,Sleeping Dog
+1,0,-0.1039,Persuadable
+1,0,-0.0039,Sure Thing / Lost Cause
+0,0,0.0056,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+1,0,-0.0101,Sure Thing / Lost Cause
+1,0,0.0156,Sleeping Dog
+1,0,0.0399,Sleeping Dog
+1,0,0.0014,Sleeping Dog
+1,0,0.0043,Sleeping Dog
+1,0,0.0103,Sleeping Dog
+0,0,-0.1067,Persuadable
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,-0.0468,Persuadable
+0,0,0.0087,Sleeping Dog
+0,0,-0.0715,Persuadable
+0,0,0.004,Sleeping Dog
+0,0,-0.0022,Sure Thing / Lost Cause
+1,0,-0.008,Sure Thing / Lost Cause
+1,0,-0.0258,Persuadable
+1,0,-0.0063,Sure Thing / Lost Cause
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0531,Persuadable
+1,0,0.0276,Sleeping Dog
+1,0,0.0095,Sleeping Dog
+1,0,-0.0011,Sure Thing / Lost Cause
+0,0,0.0074,Sleeping Dog
+1,0,-0.0357,Persuadable
+1,0,0.0005,Sure Thing / Lost Cause
+1,0,0.0054,Sleeping Dog
+0,0,-0.0245,Persuadable
+1,0,0.0016,Sleeping Dog
+1,0,-0.0287,Persuadable
+1,0,0.0076,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,0.0116,Sleeping Dog
+0,0,-0.003,Sure Thing / Lost Cause
+0,0,0.0041,Sleeping Dog
+1,0,-0.0381,Persuadable
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,-0.0069,Sure Thing / Lost Cause
+0,0,0.005,Sleeping Dog
+1,0,-0.1187,Persuadable
+1,0,0.0079,Sleeping Dog
+0,0,0.0046,Sleeping Dog
+1,0,0.0135,Sleeping Dog
+1,0,0.0115,Sleeping Dog
+1,0,-0.0125,Sure Thing / Lost Cause
+1,0,0.0148,Sleeping Dog
+1,0,0.0147,Sleeping Dog
+1,0,0.0148,Sleeping Dog
+1,0,-0.044,Persuadable
+1,0,-0.0036,Sure Thing / Lost Cause
+1,0,0.0018,Sleeping Dog
+1,0,0.0103,Sleeping Dog
+0,0,-0.0029,Sure Thing / Lost Cause
+1,0,0.0036,Sleeping Dog
+1,0,0.0056,Sleeping Dog
+1,0,-0.0375,Persuadable
+1,0,0.0047,Sleeping Dog
+1,0,-0.0167,Sure Thing / Lost Cause
+1,0,-0.0061,Sure Thing / Lost Cause
+0,0,-0.0021,Sure Thing / Lost Cause
+1,0,-0.0007,Sure Thing / Lost Cause
+1,0,0.0112,Sleeping Dog
+1,0,-0.0325,Persuadable
+1,0,-0.0038,Sure Thing / Lost Cause
+0,0,0.0027,Sleeping Dog
+0,0,-0.0155,Sure Thing / Lost Cause
+1,0,0.0075,Sleeping Dog
+0,0,-0.0061,Sure Thing / Lost Cause
+1,0,0.0123,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+0,0,0.0149,Sleeping Dog
+1,0,0.0048,Sleeping Dog
+0,0,0.0054,Sleeping Dog
+1,0,-0.0135,Sure Thing / Lost Cause
+1,0,-0.0353,Persuadable
+1,0,0.0086,Sleeping Dog
+1,0,0.0049,Sleeping Dog
+1,0,0.0363,Sleeping Dog
+0,1,0.0069,Sleeping Dog
+1,0,-0.0076,Sure Thing / Lost Cause
+1,0,-0.0039,Sure Thing / Lost Cause
+1,0,-0.0065,Sure Thing / Lost Cause
+1,0,-0.0068,Sure Thing / Lost Cause
+1,0,-0.0204,Persuadable
+1,0,-0.0207,Persuadable
+1,0,-0.0103,Sure Thing / Lost Cause
+0,0,-0.0001,Sure Thing / Lost Cause
+1,0,0.0048,Sleeping Dog
+1,0,-0.0056,Sure Thing / Lost Cause
+1,0,0.0033,Sleeping Dog
+1,0,0.0186,Sleeping Dog
+0,0,-0.005,Sure Thing / Lost Cause
+1,0,0.0096,Sleeping Dog
+1,0,-0.0222,Persuadable
+0,0,0.0093,Sleeping Dog
+0,0,-0.0161,Sure Thing / Lost Cause
+1,0,0.007,Sleeping Dog
+1,0,0.0063,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,-0.0444,Persuadable
+1,0,0.0362,Sleeping Dog
+1,0,-0.0156,Sure Thing / Lost Cause
+1,0,0.0039,Sleeping Dog
+1,0,0.0053,Sleeping Dog
+1,0,-0.1039,Persuadable
+0,0,0.0,Sure Thing / Lost Cause
+1,0,-0.009,Sure Thing / Lost Cause
+0,0,0.0115,Sleeping Dog
+1,0,0.0086,Sleeping Dog
+0,0,-0.0533,Persuadable
+1,0,0.0158,Sleeping Dog
+1,0,-0.031,Persuadable
+1,0,0.004,Sleeping Dog
+0,0,-0.0028,Sure Thing / Lost Cause
+1,0,-0.0321,Persuadable
+0,0,-0.0229,Persuadable
+1,0,0.0136,Sleeping Dog
+1,0,0.0031,Sleeping Dog
+1,0,-0.0125,Sure Thing / Lost Cause
+1,0,-0.04,Persuadable
+0,0,0.0105,Sleeping Dog
+0,0,-0.0526,Persuadable
+1,0,0.0275,Sleeping Dog
+1,0,-0.0119,Sure Thing / Lost Cause
+1,0,0.0108,Sleeping Dog
+1,0,-0.0036,Sure Thing / Lost Cause
+1,0,-0.0041,Sure Thing / Lost Cause
+0,0,0.0169,Sleeping Dog
+1,0,0.0229,Sleeping Dog
+1,0,0.0182,Sleeping Dog
+1,0,-0.0221,Persuadable
+1,0,0.0017,Sleeping Dog
+1,0,-0.0345,Persuadable
+1,0,0.0047,Sleeping Dog
+0,0,0.0042,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+0,0,0.011,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+0,0,-0.0199,Sure Thing / Lost Cause
+1,0,-0.0084,Sure Thing / Lost Cause
+0,0,0.0127,Sleeping Dog
+1,0,-0.0002,Sure Thing / Lost Cause
+0,0,-0.0024,Sure Thing / Lost Cause
+0,0,0.0095,Sleeping Dog
+1,0,-0.0192,Sure Thing / Lost Cause
+1,0,-0.0112,Sure Thing / Lost Cause
+0,0,-0.0018,Sure Thing / Lost Cause
+0,0,-0.0022,Sure Thing / Lost Cause
+1,0,-0.0103,Sure Thing / Lost Cause
+1,0,-0.0083,Sure Thing / Lost Cause
+1,0,-0.0063,Sure Thing / Lost Cause
+1,0,0.0066,Sleeping Dog
+1,0,0.0112,Sleeping Dog
+1,0,0.0127,Sleeping Dog
+1,0,-0.0624,Persuadable
+1,0,0.0056,Sleeping Dog
+0,0,-0.0325,Persuadable
+0,0,-0.0526,Persuadable
+1,0,0.0112,Sleeping Dog
+0,0,0.0051,Sleeping Dog
+1,0,-0.018,Sure Thing / Lost Cause
+1,0,0.0041,Sleeping Dog
+0,0,-0.0043,Sure Thing / Lost Cause
+1,0,0.0014,Sleeping Dog
+1,0,0.0101,Sleeping Dog
+0,0,0.016,Sleeping Dog
+1,0,0.01,Sleeping Dog
+1,0,-0.0286,Persuadable
+1,0,0.0073,Sleeping Dog
+0,0,-0.0317,Persuadable
+0,0,-0.0252,Persuadable
+1,0,0.0072,Sleeping Dog
+0,0,-0.0323,Persuadable
+1,0,-0.0533,Persuadable
+1,0,-0.0092,Sure Thing / Lost Cause
+1,0,0.0047,Sleeping Dog
+0,0,-0.0137,Sure Thing / Lost Cause
+0,0,-0.0138,Sure Thing / Lost Cause
+1,0,0.0129,Sleeping Dog
+1,0,-0.016,Sure Thing / Lost Cause
+1,1,0.0035,Sleeping Dog
+0,0,0.0017,Sleeping Dog
+1,0,0.0067,Sleeping Dog
+1,0,-0.0115,Sure Thing / Lost Cause
+1,0,-0.0255,Persuadable
+1,0,-0.0217,Persuadable
+0,0,0.0155,Sleeping Dog
+1,0,0.012,Sleeping Dog
+0,0,0.0157,Sleeping Dog
+1,0,0.0121,Sleeping Dog
+1,0,0.0205,Sleeping Dog
+0,0,-0.1292,Persuadable
+1,0,-0.0226,Persuadable
+1,0,0.0222,Sleeping Dog
+1,0,0.0017,Sleeping Dog
+1,0,-0.0112,Sure Thing / Lost Cause
+1,0,-0.0384,Persuadable
+1,0,0.0019,Sleeping Dog
+1,0,-0.0065,Sure Thing / Lost Cause
+0,0,0.0032,Sleeping Dog
+1,0,0.0039,Sleeping Dog
+0,0,0.017,Sleeping Dog
+0,0,0.0028,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,1,-0.0146,Sure Thing / Lost Cause
+1,0,0.0137,Sleeping Dog
+1,0,-0.0843,Persuadable
+0,0,-0.0032,Sure Thing / Lost Cause
+0,0,-0.0091,Sure Thing / Lost Cause
+1,0,0.0419,Sleeping Dog
+0,0,-0.0279,Persuadable
+1,0,0.0036,Sleeping Dog
+0,0,-0.0337,Persuadable
+1,0,0.0039,Sleeping Dog
+1,0,-0.0123,Sure Thing / Lost Cause
+1,0,-0.0041,Sure Thing / Lost Cause
+0,1,-0.0323,Persuadable
+1,0,-0.0215,Persuadable
+1,0,-0.0267,Persuadable
+0,0,0.0546,Sleeping Dog
+1,0,0.0072,Sleeping Dog
+1,0,0.0085,Sleeping Dog
+1,0,0.017,Sleeping Dog
+1,0,0.0083,Sleeping Dog
+1,0,0.0154,Sleeping Dog
+1,0,-0.0138,Sure Thing / Lost Cause
+1,0,0.0073,Sleeping Dog
+1,0,0.0268,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+1,0,0.0064,Sleeping Dog
+1,0,-0.0138,Sure Thing / Lost Cause
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,-0.0339,Persuadable
+1,0,0.0026,Sleeping Dog
+1,0,-0.0371,Persuadable
+1,1,0.0003,Sure Thing / Lost Cause
+1,0,-0.0152,Sure Thing / Lost Cause
+1,0,0.0033,Sleeping Dog
+1,0,-0.0159,Sure Thing / Lost Cause
+1,0,-0.1363,Persuadable
+1,0,0.0027,Sleeping Dog
+1,0,-0.0181,Sure Thing / Lost Cause
+0,0,-0.0019,Sure Thing / Lost Cause
+0,0,0.0087,Sleeping Dog
+1,0,0.0081,Sleeping Dog
+1,0,-0.1022,Persuadable
+1,0,0.0024,Sleeping Dog
+1,0,-0.0043,Sure Thing / Lost Cause
+1,0,0.0103,Sleeping Dog
+0,0,0.0091,Sleeping Dog
+1,0,-0.0315,Persuadable
+1,0,-0.0995,Persuadable
+1,0,0.0148,Sleeping Dog
+1,0,-0.0258,Persuadable
+1,1,0.0184,Sleeping Dog
+1,0,0.008,Sleeping Dog
+0,0,-0.0396,Persuadable
+0,0,0.0094,Sleeping Dog
+0,0,0.0046,Sleeping Dog
+0,0,0.0255,Sleeping Dog
+1,0,0.0041,Sleeping Dog
+1,0,-0.0174,Sure Thing / Lost Cause
+0,0,0.0093,Sleeping Dog
+1,0,0.0115,Sleeping Dog
+0,0,0.0272,Sleeping Dog
+1,0,-0.0034,Sure Thing / Lost Cause
+1,0,0.0137,Sleeping Dog
+0,0,-0.057,Persuadable
+0,0,0.0,Sure Thing / Lost Cause
+1,0,-0.0396,Persuadable
+1,0,0.0081,Sleeping Dog
+1,0,-0.0546,Persuadable
+0,0,-0.0014,Sure Thing / Lost Cause
+1,0,0.0123,Sleeping Dog
+0,0,0.0097,Sleeping Dog
+1,0,0.003,Sleeping Dog
+1,0,0.0077,Sleeping Dog
+0,0,-0.0012,Sure Thing / Lost Cause
+0,0,0.0166,Sleeping Dog
+1,0,-0.0218,Persuadable
+1,1,0.0141,Sleeping Dog
+1,0,0.0117,Sleeping Dog
+0,1,0.0056,Sleeping Dog
+1,0,0.013,Sleeping Dog
+1,0,0.0071,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+1,0,0.0038,Sleeping Dog
+1,0,-0.0006,Sure Thing / Lost Cause
+1,0,-0.0161,Sure Thing / Lost Cause
+1,0,0.0106,Sleeping Dog
+1,0,0.0119,Sleeping Dog
+0,0,-0.0025,Sure Thing / Lost Cause
+1,0,0.0077,Sleeping Dog
+0,0,-0.0005,Sure Thing / Lost Cause
+1,0,-0.0006,Sure Thing / Lost Cause
+1,0,0.0166,Sleeping Dog
+1,0,0.0278,Sleeping Dog
+1,0,-0.0282,Persuadable
+1,0,0.0115,Sleeping Dog
+1,0,-0.014,Sure Thing / Lost Cause
+1,0,-0.0256,Persuadable
+1,0,-0.011,Sure Thing / Lost Cause
+1,1,0.0055,Sleeping Dog
+1,0,0.0026,Sleeping Dog
+0,0,-0.0062,Sure Thing / Lost Cause
+1,0,-0.0172,Sure Thing / Lost Cause
+1,0,0.0007,Sure Thing / Lost Cause
+1,0,-0.0288,Persuadable
+1,0,-0.0043,Sure Thing / Lost Cause
+0,0,-0.0095,Sure Thing / Lost Cause
+1,0,-0.0259,Persuadable
+0,0,0.0006,Sure Thing / Lost Cause
+1,0,0.0485,Sleeping Dog
+1,0,0.0088,Sleeping Dog
+1,0,0.0069,Sleeping Dog
+1,0,0.0114,Sleeping Dog
+1,0,0.0117,Sleeping Dog
+1,0,0.0501,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+1,0,0.0091,Sleeping Dog
+1,0,0.0004,Sure Thing / Lost Cause
+1,0,0.0106,Sleeping Dog
+1,0,-0.0009,Sure Thing / Lost Cause
+1,0,0.0133,Sleeping Dog
+1,0,0.0011,Sleeping Dog
+1,0,0.0116,Sleeping Dog
+1,0,-0.0006,Sure Thing / Lost Cause
+1,0,0.0142,Sleeping Dog
+1,0,-0.0225,Persuadable
+0,0,0.0007,Sure Thing / Lost Cause
+1,0,-0.0138,Sure Thing / Lost Cause
+0,0,0.0103,Sleeping Dog
+1,0,0.0039,Sleeping Dog
+1,0,0.0006,Sure Thing / Lost Cause
+0,0,0.0256,Sleeping Dog
+1,0,0.0031,Sleeping Dog
+1,0,0.0084,Sleeping Dog
+1,0,-0.0156,Sure Thing / Lost Cause
+0,0,0.0006,Sure Thing / Lost Cause
+1,0,-0.0139,Sure Thing / Lost Cause
+1,0,0.003,Sleeping Dog
+1,0,-0.0265,Persuadable
+1,0,0.0043,Sleeping Dog
+1,0,0.0323,Sleeping Dog
+1,0,-0.0028,Sure Thing / Lost Cause
+1,0,-0.0318,Persuadable
+1,0,-0.0023,Sure Thing / Lost Cause
+0,0,0.0128,Sleeping Dog
+1,0,-0.1825,Persuadable
+0,0,-0.0278,Persuadable
+0,0,0.0113,Sleeping Dog
+0,0,0.0156,Sleeping Dog
+0,0,-0.0053,Sure Thing / Lost Cause
+1,0,-0.0085,Sure Thing / Lost Cause
+1,0,-0.015,Sure Thing / Lost Cause
+0,0,0.0044,Sleeping Dog
+1,0,-0.0065,Sure Thing / Lost Cause
+1,0,0.0035,Sleeping Dog
+0,0,0.0107,Sleeping Dog
+1,0,-0.0069,Sure Thing / Lost Cause
+0,0,0.0027,Sleeping Dog
+1,0,-0.0059,Sure Thing / Lost Cause
+1,0,0.0091,Sleeping Dog
+1,0,-0.0148,Sure Thing / Lost Cause
+1,0,-0.0284,Persuadable
+1,0,-0.0048,Sure Thing / Lost Cause
+1,0,0.0127,Sleeping Dog
+1,0,0.0176,Sleeping Dog
+0,0,-0.0595,Persuadable
+1,0,0.0121,Sleeping Dog
+1,0,-0.0542,Persuadable
+1,0,-0.0006,Sure Thing / Lost Cause
+1,0,-0.0065,Sure Thing / Lost Cause
+1,0,0.0014,Sleeping Dog
+0,0,-0.0054,Sure Thing / Lost Cause
+1,0,-0.0289,Persuadable
+0,0,0.0328,Sleeping Dog
+1,0,-0.0291,Persuadable
+1,0,-0.0039,Sure Thing / Lost Cause
+1,0,0.0135,Sleeping Dog
+0,0,-0.0089,Sure Thing / Lost Cause
+1,0,-0.019,Sure Thing / Lost Cause
+1,0,-0.0249,Persuadable
+1,0,0.0088,Sleeping Dog
+0,0,0.0152,Sleeping Dog
+0,0,0.0141,Sleeping Dog
+1,0,-0.0101,Sure Thing / Lost Cause
+1,0,-0.0422,Persuadable
+1,0,-0.0481,Persuadable
+1,0,0.0046,Sleeping Dog
+0,0,0.0015,Sleeping Dog
+1,0,-0.0084,Sure Thing / Lost Cause
+0,0,0.0062,Sleeping Dog
+1,0,0.0085,Sleeping Dog
+0,0,0.0148,Sleeping Dog
+1,0,0.0151,Sleeping Dog
+1,0,-0.0022,Sure Thing / Lost Cause
+1,0,-0.0108,Sure Thing / Lost Cause
+0,0,-0.0101,Sure Thing / Lost Cause
+1,0,0.0184,Sleeping Dog
+1,0,-0.022,Persuadable
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,0.0117,Sleeping Dog
+1,0,-0.0173,Sure Thing / Lost Cause
+0,0,-0.1166,Persuadable
+1,0,0.0071,Sleeping Dog
+1,0,0.0136,Sleeping Dog
+0,0,0.0105,Sleeping Dog
+1,0,-0.1378,Persuadable
+1,0,-0.015,Sure Thing / Lost Cause
+1,0,-0.0053,Sure Thing / Lost Cause
+1,0,-0.0047,Sure Thing / Lost Cause
+1,0,0.013,Sleeping Dog
+0,0,0.0109,Sleeping Dog
+1,1,0.013,Sleeping Dog
+1,0,0.0034,Sleeping Dog
+0,0,-0.0068,Sure Thing / Lost Cause
+1,0,-0.0203,Persuadable
+1,0,-0.003,Sure Thing / Lost Cause
+0,0,-0.0291,Persuadable
+1,0,0.0005,Sure Thing / Lost Cause
+0,0,-0.0162,Sure Thing / Lost Cause
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,0.0069,Sleeping Dog
+1,0,0.0151,Sleeping Dog
+1,0,0.009,Sleeping Dog
+1,0,-0.0325,Persuadable
+1,0,-0.0171,Sure Thing / Lost Cause
+1,0,0.0095,Sleeping Dog
+0,0,0.0073,Sleeping Dog
+1,0,0.0091,Sleeping Dog
+1,0,0.0008,Sure Thing / Lost Cause
+0,0,0.0096,Sleeping Dog
+0,0,-0.0093,Sure Thing / Lost Cause
+1,0,0.0014,Sleeping Dog
+1,0,0.0131,Sleeping Dog
+0,0,0.0175,Sleeping Dog
+0,0,0.0129,Sleeping Dog
+1,0,-0.0335,Persuadable
+1,1,-0.0198,Sure Thing / Lost Cause
+0,0,-0.0242,Persuadable
+1,0,-0.0207,Persuadable
+1,0,0.0167,Sleeping Dog
+1,0,0.009,Sleeping Dog
+1,0,-0.0071,Sure Thing / Lost Cause
+0,0,0.0075,Sleeping Dog
+1,0,0.0097,Sleeping Dog
+1,1,0.0017,Sleeping Dog
+1,0,0.0151,Sleeping Dog
+0,0,0.0142,Sleeping Dog
+1,0,0.001,Sure Thing / Lost Cause
+1,0,0.0076,Sleeping Dog
+1,0,0.0129,Sleeping Dog
+1,1,0.0097,Sleeping Dog
+0,1,0.0005,Sure Thing / Lost Cause
+1,0,0.0137,Sleeping Dog
+1,0,-0.0292,Persuadable
+0,0,-0.0159,Sure Thing / Lost Cause
+1,0,0.0016,Sleeping Dog
+1,0,-0.0074,Sure Thing / Lost Cause
+0,0,-0.0502,Persuadable
+1,0,0.0138,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0145,Sure Thing / Lost Cause
+0,0,0.0068,Sleeping Dog
+1,0,0.0046,Sleeping Dog
+0,0,0.0252,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+1,0,-0.0074,Sure Thing / Lost Cause
+1,0,0.0102,Sleeping Dog
+1,0,-0.0009,Sure Thing / Lost Cause
+1,0,0.0127,Sleeping Dog
+0,0,0.0067,Sleeping Dog
+1,0,0.0027,Sleeping Dog
+1,0,-0.0433,Persuadable
+1,0,0.0113,Sleeping Dog
+1,0,0.0062,Sleeping Dog
+0,0,-0.0809,Persuadable
+1,0,0.0172,Sleeping Dog
+1,0,-0.0067,Sure Thing / Lost Cause
+0,0,0.0066,Sleeping Dog
+0,0,0.0172,Sleeping Dog
+1,0,0.0094,Sleeping Dog
+0,0,0.0038,Sleeping Dog
+1,0,-0.009,Sure Thing / Lost Cause
+0,0,-0.0099,Sure Thing / Lost Cause
+1,0,0.0085,Sleeping Dog
+1,0,-0.0028,Sure Thing / Lost Cause
+0,0,0.0173,Sleeping Dog
+1,0,0.0131,Sleeping Dog
+0,0,0.0023,Sleeping Dog
+1,0,0.006,Sleeping Dog
+1,0,-0.0014,Sure Thing / Lost Cause
+1,0,-0.0114,Sure Thing / Lost Cause
+1,0,-0.0212,Persuadable
+1,0,0.0312,Sleeping Dog
+0,0,0.0144,Sleeping Dog
+1,0,-0.0435,Persuadable
+1,0,0.0039,Sleeping Dog
+0,0,0.0084,Sleeping Dog
+1,0,-0.0122,Sure Thing / Lost Cause
+0,0,-0.002,Sure Thing / Lost Cause
+0,0,0.0124,Sleeping Dog
+0,0,0.0041,Sleeping Dog
+1,1,-0.025,Persuadable
+1,0,0.0037,Sleeping Dog
+1,0,0.0109,Sleeping Dog
+1,0,0.002,Sleeping Dog
+1,0,-0.0042,Sure Thing / Lost Cause
+0,0,-0.0006,Sure Thing / Lost Cause
+1,0,-0.0074,Sure Thing / Lost Cause
+0,0,0.0107,Sleeping Dog
+1,0,-0.0425,Persuadable
+1,0,0.0111,Sleeping Dog
+1,0,0.0114,Sleeping Dog
+1,0,0.0057,Sleeping Dog
+0,0,0.0158,Sleeping Dog
+1,1,-0.0089,Sure Thing / Lost Cause
+1,0,-0.0015,Sure Thing / Lost Cause
+1,0,0.0075,Sleeping Dog
+0,0,-0.0185,Sure Thing / Lost Cause
+0,0,-0.0923,Persuadable
+1,0,0.0177,Sleeping Dog
+1,0,0.016,Sleeping Dog
+0,0,-0.0077,Sure Thing / Lost Cause
+0,0,-0.0023,Sure Thing / Lost Cause
+1,0,0.0186,Sleeping Dog
+1,0,0.0075,Sleeping Dog
+1,0,-0.0543,Persuadable
+1,0,0.0188,Sleeping Dog
+1,0,0.0089,Sleeping Dog
+1,0,0.0093,Sleeping Dog
+1,0,0.0048,Sleeping Dog
+0,0,-0.0264,Persuadable
+1,0,0.0044,Sleeping Dog
+1,0,-0.0221,Persuadable
+0,0,0.0075,Sleeping Dog
+0,0,0.0102,Sleeping Dog
+1,0,-0.0125,Sure Thing / Lost Cause
+1,0,0.0089,Sleeping Dog
+1,0,0.0147,Sleeping Dog
+1,0,0.0142,Sleeping Dog
+1,0,0.0341,Sleeping Dog
+1,0,-0.0491,Persuadable
+1,0,-0.0303,Persuadable
+1,0,0.0493,Sleeping Dog
+1,0,-0.0201,Persuadable
+1,0,0.0069,Sleeping Dog
+1,0,0.011,Sleeping Dog
+0,0,0.011,Sleeping Dog
+1,0,0.0101,Sleeping Dog
+1,0,0.0113,Sleeping Dog
+1,0,0.0143,Sleeping Dog
+1,0,0.0192,Sleeping Dog
+1,0,-0.0178,Sure Thing / Lost Cause
+1,0,0.0147,Sleeping Dog
+1,1,0.0005,Sure Thing / Lost Cause
+1,0,0.0101,Sleeping Dog
+0,0,-0.1646,Persuadable
+1,0,0.0057,Sleeping Dog
+1,1,0.0093,Sleeping Dog
+1,0,0.0125,Sleeping Dog
+0,0,0.0091,Sleeping Dog
+1,0,-0.0692,Persuadable
+1,0,-0.0113,Sure Thing / Lost Cause
+1,0,0.0444,Sleeping Dog
+0,0,0.0096,Sleeping Dog
+1,0,0.0089,Sleeping Dog
+1,0,0.0068,Sleeping Dog
+0,0,-0.0026,Sure Thing / Lost Cause
+1,0,0.0068,Sleeping Dog
+1,0,-0.0488,Persuadable
+1,0,-0.0571,Persuadable
+0,0,0.009,Sleeping Dog
+1,0,-0.0002,Sure Thing / Lost Cause
+1,0,-0.0334,Persuadable
+1,0,-0.0242,Persuadable
+1,1,-0.0332,Persuadable
+0,0,-0.0066,Sure Thing / Lost Cause
+1,0,0.0169,Sleeping Dog
+1,0,0.0112,Sleeping Dog
+1,0,-0.1068,Persuadable
+1,0,-0.0284,Persuadable
+1,0,-0.0138,Sure Thing / Lost Cause
+1,0,-0.0016,Sure Thing / Lost Cause
+1,0,0.0046,Sleeping Dog
+1,0,0.007,Sleeping Dog
+0,0,-0.0032,Sure Thing / Lost Cause
+1,0,0.0063,Sleeping Dog
+0,0,0.0056,Sleeping Dog
+1,0,0.0167,Sleeping Dog
+1,0,-0.0249,Persuadable
+0,0,0.0132,Sleeping Dog
+0,0,-0.0253,Persuadable
+1,0,0.0174,Sleeping Dog
+1,0,0.0157,Sleeping Dog
+1,0,-0.0194,Sure Thing / Lost Cause
+1,0,-0.0199,Sure Thing / Lost Cause
+1,0,-0.0061,Sure Thing / Lost Cause
+1,0,0.0166,Sleeping Dog
+1,0,0.0152,Sleeping Dog
+1,0,-0.0476,Persuadable
+1,0,0.0342,Sleeping Dog
+0,0,-0.0147,Sure Thing / Lost Cause
+1,0,0.0178,Sleeping Dog
+1,0,0.013,Sleeping Dog
+1,1,-0.0278,Persuadable
+0,0,-0.0019,Sure Thing / Lost Cause
+1,0,0.0174,Sleeping Dog
+0,0,-0.0531,Persuadable
+1,0,0.0088,Sleeping Dog
+1,0,-0.0515,Persuadable
+0,0,0.0057,Sleeping Dog
+1,0,0.0146,Sleeping Dog
+1,0,-0.0128,Sure Thing / Lost Cause
+1,0,0.0033,Sleeping Dog
+1,0,-0.0121,Sure Thing / Lost Cause
+0,0,-0.0151,Sure Thing / Lost Cause
+0,0,-0.0679,Persuadable
+0,0,-0.019,Sure Thing / Lost Cause
+0,0,-0.0039,Sure Thing / Lost Cause
+1,0,-0.0001,Sure Thing / Lost Cause
+1,0,-0.0146,Sure Thing / Lost Cause
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0456,Persuadable
+1,0,0.0086,Sleeping Dog
+1,0,0.0444,Sleeping Dog
+0,0,-0.027,Persuadable
+0,0,-0.0052,Sure Thing / Lost Cause
+1,0,0.0043,Sleeping Dog
+1,0,0.0033,Sleeping Dog
+1,0,0.0092,Sleeping Dog
+1,0,0.0113,Sleeping Dog
+1,0,0.0122,Sleeping Dog
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,0.0079,Sleeping Dog
+1,0,0.0156,Sleeping Dog
+1,0,-0.0059,Sure Thing / Lost Cause
+0,0,0.0144,Sleeping Dog
+1,0,-0.0098,Sure Thing / Lost Cause
+1,0,0.0146,Sleeping Dog
+0,0,-0.0012,Sure Thing / Lost Cause
+1,0,-0.0155,Sure Thing / Lost Cause
+0,0,-0.0084,Sure Thing / Lost Cause
+1,0,0.0083,Sleeping Dog
+1,0,-0.0133,Sure Thing / Lost Cause
+1,0,-0.0423,Persuadable
+1,0,0.0079,Sleeping Dog
+0,0,0.0004,Sure Thing / Lost Cause
+1,0,-0.0786,Persuadable
+0,0,0.0017,Sleeping Dog
+1,0,0.0049,Sleeping Dog
+1,1,-0.004,Sure Thing / Lost Cause
+1,0,0.0005,Sure Thing / Lost Cause
+0,0,0.006,Sleeping Dog
+1,0,-0.068,Persuadable
+1,0,0.0146,Sleeping Dog
+1,0,-0.0038,Sure Thing / Lost Cause
+1,0,0.0108,Sleeping Dog
+1,0,0.0004,Sure Thing / Lost Cause
+1,1,-0.0086,Sure Thing / Lost Cause
+1,0,0.0045,Sleeping Dog
+1,0,0.0155,Sleeping Dog
+1,0,0.0005,Sure Thing / Lost Cause
+0,0,-0.0099,Sure Thing / Lost Cause
+1,0,0.0107,Sleeping Dog
+0,0,0.0091,Sleeping Dog
+1,0,0.0119,Sleeping Dog
+0,0,-0.0141,Sure Thing / Lost Cause
+1,0,-0.013,Sure Thing / Lost Cause
+1,0,-0.0224,Persuadable
+1,0,-0.0195,Sure Thing / Lost Cause
+1,0,-0.0086,Sure Thing / Lost Cause
+0,0,0.0091,Sleeping Dog
+1,0,-0.0297,Persuadable
+1,0,-0.0724,Persuadable
+0,0,-0.0461,Persuadable
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,0.0064,Sleeping Dog
+0,0,-0.0366,Persuadable
+1,0,0.0119,Sleeping Dog
+1,0,0.0086,Sleeping Dog
+0,0,0.0009,Sure Thing / Lost Cause
+0,0,-0.0083,Sure Thing / Lost Cause
+1,0,-0.0542,Persuadable
+1,0,-0.038,Persuadable
+0,0,0.0063,Sleeping Dog
+1,0,0.003,Sleeping Dog
+0,0,0.0004,Sure Thing / Lost Cause
+1,0,-0.0036,Sure Thing / Lost Cause
+1,1,-0.0515,Persuadable
+0,0,-0.02,Sure Thing / Lost Cause
+1,0,-0.0688,Persuadable
+1,0,-0.0272,Persuadable
+0,0,0.0081,Sleeping Dog
+1,0,-0.0039,Sure Thing / Lost Cause
+1,0,0.0113,Sleeping Dog
+1,0,-0.0012,Sure Thing / Lost Cause
+1,0,0.0157,Sleeping Dog
+0,0,-0.0126,Sure Thing / Lost Cause
+1,0,0.0082,Sleeping Dog
+1,0,0.0061,Sleeping Dog
+1,0,0.0087,Sleeping Dog
+1,0,-0.0024,Sure Thing / Lost Cause
+1,0,-0.0194,Sure Thing / Lost Cause
+1,0,0.0101,Sleeping Dog
+1,0,-0.0552,Persuadable
+1,0,-0.0224,Persuadable
+1,0,-0.002,Sure Thing / Lost Cause
+1,0,0.0042,Sleeping Dog
+1,0,0.0172,Sleeping Dog
+1,0,-0.0357,Persuadable
+0,0,0.0366,Sleeping Dog
+1,0,-0.0137,Sure Thing / Lost Cause
+1,0,-0.0229,Persuadable
+1,0,-0.0343,Persuadable
+1,0,0.0049,Sleeping Dog
+0,0,-0.0051,Sure Thing / Lost Cause
+1,0,0.0,Sure Thing / Lost Cause
+0,0,0.0004,Sure Thing / Lost Cause
+1,0,0.0044,Sleeping Dog
+0,0,-0.0322,Persuadable
+1,0,0.0021,Sleeping Dog
+1,0,-0.0013,Sure Thing / Lost Cause
+1,0,0.0172,Sleeping Dog
+0,0,0.0078,Sleeping Dog
+0,1,0.002,Sleeping Dog
+1,0,0.0149,Sleeping Dog
+1,0,0.0171,Sleeping Dog
+1,0,-0.0417,Persuadable
+1,0,-0.0023,Sure Thing / Lost Cause
+1,0,0.0039,Sleeping Dog
+1,0,-0.0009,Sure Thing / Lost Cause
+1,0,-0.0896,Persuadable
+1,0,0.0183,Sleeping Dog
+1,0,-0.0069,Sure Thing / Lost Cause
+1,0,0.0206,Sleeping Dog
+0,0,0.0093,Sleeping Dog
+0,0,-0.0183,Sure Thing / Lost Cause
+1,0,-0.0239,Persuadable
+1,0,-0.0845,Persuadable
+0,0,0.0204,Sleeping Dog
+1,0,-0.0205,Persuadable
+1,0,0.0324,Sleeping Dog
+0,0,-0.0132,Sure Thing / Lost Cause
+1,0,0.0039,Sleeping Dog
+1,0,-0.0275,Persuadable
+1,0,0.008,Sleeping Dog
+1,0,0.0113,Sleeping Dog
+1,0,-0.0272,Persuadable
+1,0,-0.027,Persuadable
+0,0,-0.0003,Sure Thing / Lost Cause
+1,0,0.0144,Sleeping Dog
+1,0,0.0018,Sleeping Dog
+1,0,0.0159,Sleeping Dog
+1,0,0.016,Sleeping Dog
+1,0,0.0176,Sleeping Dog
+0,0,0.0097,Sleeping Dog
+0,0,0.0072,Sleeping Dog
+0,1,0.0412,Sleeping Dog
+1,0,0.0165,Sleeping Dog
+1,0,0.0096,Sleeping Dog
+1,0,0.0041,Sleeping Dog
+1,0,0.0094,Sleeping Dog
+1,0,0.1309,Sleeping Dog
+0,0,-0.022,Persuadable
+1,0,-0.0513,Persuadable
+1,0,0.0179,Sleeping Dog
+0,0,-0.0345,Persuadable
+1,0,0.0032,Sleeping Dog
+1,0,-0.0272,Persuadable
+1,0,-0.0077,Sure Thing / Lost Cause
+1,0,-0.0128,Sure Thing / Lost Cause
+0,0,0.0016,Sleeping Dog
+1,0,-0.0229,Persuadable
+1,0,0.0115,Sleeping Dog
+0,0,-0.0472,Persuadable
+0,0,0.0132,Sleeping Dog
+1,0,0.0138,Sleeping Dog
+1,0,0.0161,Sleeping Dog
+1,0,0.0008,Sure Thing / Lost Cause
+1,1,0.0276,Sleeping Dog
+1,0,0.0085,Sleeping Dog
+1,0,-0.006,Sure Thing / Lost Cause
+0,0,-0.0223,Persuadable
+1,0,0.0145,Sleeping Dog
+0,0,-0.0196,Sure Thing / Lost Cause
+1,0,0.0046,Sleeping Dog
+1,0,0.0001,Sure Thing / Lost Cause
+1,0,-0.0275,Persuadable
+1,0,-0.0943,Persuadable
+1,0,0.0057,Sleeping Dog
+0,0,-0.0005,Sure Thing / Lost Cause
+1,0,-0.0123,Sure Thing / Lost Cause
+1,0,0.009,Sleeping Dog
+1,0,-0.0341,Persuadable
+1,0,0.0044,Sleeping Dog
+1,0,0.0047,Sleeping Dog
+1,0,0.0176,Sleeping Dog
+1,0,-0.117,Persuadable
+1,0,0.0095,Sleeping Dog
+1,0,-0.0369,Persuadable
+0,0,-0.0071,Sure Thing / Lost Cause
+1,1,0.0017,Sleeping Dog
+1,0,-0.0196,Sure Thing / Lost Cause
+1,0,-0.012,Sure Thing / Lost Cause
+0,0,-0.0134,Sure Thing / Lost Cause
+0,0,0.0088,Sleeping Dog
+0,0,-0.005,Sure Thing / Lost Cause
+1,1,-0.0038,Sure Thing / Lost Cause
+1,0,-0.0018,Sure Thing / Lost Cause
+1,0,-0.0374,Persuadable
+1,0,0.0169,Sleeping Dog
+1,0,0.0067,Sleeping Dog
+0,0,0.0098,Sleeping Dog
+1,0,-0.0461,Persuadable
+0,0,0.0089,Sleeping Dog
+1,0,-0.001,Sure Thing / Lost Cause
+1,0,0.0002,Sure Thing / Lost Cause
+1,0,-0.0055,Sure Thing / Lost Cause
+1,0,0.0117,Sleeping Dog
+0,0,0.0018,Sleeping Dog
+1,0,-0.0407,Persuadable
+1,0,-0.0246,Persuadable
+0,0,-0.0211,Persuadable
+1,0,0.016,Sleeping Dog
+1,0,0.0035,Sleeping Dog
+0,0,-0.0025,Sure Thing / Lost Cause
+1,0,0.007,Sleeping Dog
+0,0,-0.0462,Persuadable
+1,0,0.0015,Sleeping Dog
+1,1,0.006,Sleeping Dog
+1,0,0.0173,Sleeping Dog
+1,0,0.0074,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,-0.0045,Sure Thing / Lost Cause
+1,0,0.009,Sleeping Dog
+0,0,0.0133,Sleeping Dog
+1,0,0.0064,Sleeping Dog
+1,0,-0.0317,Persuadable
+0,0,0.0043,Sleeping Dog
+1,0,-0.0366,Persuadable
+1,0,-0.0573,Persuadable
+1,0,0.0006,Sure Thing / Lost Cause
+1,0,0.0096,Sleeping Dog
+1,0,0.0124,Sleeping Dog
+1,0,-0.0332,Persuadable
+0,0,-0.0352,Persuadable
+1,0,0.0021,Sleeping Dog
+1,0,-0.1353,Persuadable
+0,0,-0.0183,Sure Thing / Lost Cause
+0,0,0.0074,Sleeping Dog
+0,0,-0.0503,Persuadable
+1,0,0.0062,Sleeping Dog
+1,0,-0.062,Persuadable
+1,0,-0.0091,Sure Thing / Lost Cause
+1,0,-0.0291,Persuadable
+1,0,-0.038,Persuadable
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,-0.0007,Sure Thing / Lost Cause
+1,0,-0.0034,Sure Thing / Lost Cause
+1,0,-0.0866,Persuadable
+1,0,0.0125,Sleeping Dog
+1,0,0.0044,Sleeping Dog
+1,0,0.0037,Sleeping Dog
+1,0,0.0071,Sleeping Dog
+1,0,0.0171,Sleeping Dog
+1,0,0.0082,Sleeping Dog
+1,0,0.0158,Sleeping Dog
+1,0,0.0155,Sleeping Dog
+1,0,0.005,Sleeping Dog
+1,0,-0.0154,Sure Thing / Lost Cause
+1,0,-0.0022,Sure Thing / Lost Cause
+0,0,0.0105,Sleeping Dog
+1,0,0.0068,Sleeping Dog
+1,0,-0.0016,Sure Thing / Lost Cause
+0,0,0.0093,Sleeping Dog
+0,0,-0.0033,Sure Thing / Lost Cause
+1,0,0.0302,Sleeping Dog
+1,0,-0.0766,Persuadable
+1,0,0.0045,Sleeping Dog
+1,0,-0.0171,Sure Thing / Lost Cause
+1,0,0.0081,Sleeping Dog
+1,0,-0.0112,Sure Thing / Lost Cause
+1,0,0.0123,Sleeping Dog
+0,0,-0.0015,Sure Thing / Lost Cause
+0,0,-0.0063,Sure Thing / Lost Cause
+0,0,0.0132,Sleeping Dog
+1,0,0.0184,Sleeping Dog
+1,0,-0.0499,Persuadable
+1,0,0.0068,Sleeping Dog
+1,0,0.0261,Sleeping Dog
+0,0,-0.0073,Sure Thing / Lost Cause
+1,0,-0.016,Sure Thing / Lost Cause
+1,0,-0.0033,Sure Thing / Lost Cause
+1,0,-0.0025,Sure Thing / Lost Cause
+0,1,0.0119,Sleeping Dog
+0,0,0.017,Sleeping Dog
+1,0,0.0107,Sleeping Dog
+1,0,0.03,Sleeping Dog
+1,0,-0.0168,Sure Thing / Lost Cause
+1,0,-0.0086,Sure Thing / Lost Cause
+1,0,0.01,Sleeping Dog
+1,0,0.0115,Sleeping Dog
+1,0,0.0109,Sleeping Dog
+1,1,0.0138,Sleeping Dog
+1,1,0.0175,Sleeping Dog
+1,0,0.0162,Sleeping Dog
+1,0,0.0137,Sleeping Dog
+1,0,-0.0135,Sure Thing / Lost Cause
+1,0,0.0069,Sleeping Dog
+1,0,-0.0229,Persuadable
+0,0,-0.0058,Sure Thing / Lost Cause
+1,0,0.0149,Sleeping Dog
+1,0,-0.0035,Sure Thing / Lost Cause
+1,0,-0.0069,Sure Thing / Lost Cause
+1,0,-0.0128,Sure Thing / Lost Cause
+1,0,-0.0069,Sure Thing / Lost Cause
+1,0,0.0082,Sleeping Dog
+1,0,-0.0093,Sure Thing / Lost Cause
+1,0,0.0147,Sleeping Dog
+0,1,-0.0256,Persuadable
+1,0,0.0078,Sleeping Dog
+1,0,0.0092,Sleeping Dog
+0,0,0.002,Sleeping Dog
+0,0,0.0031,Sleeping Dog
+0,0,0.0021,Sleeping Dog
+0,0,-0.0056,Sure Thing / Lost Cause
+1,1,-0.0226,Persuadable
+1,0,-0.0163,Sure Thing / Lost Cause
+0,0,-0.0095,Sure Thing / Lost Cause
+1,0,-0.0483,Persuadable
+1,0,0.0148,Sleeping Dog
+1,0,-0.0091,Sure Thing / Lost Cause
+0,0,0.0011,Sleeping Dog
+1,0,0.0376,Sleeping Dog
+1,0,-0.0344,Persuadable
+1,0,0.0149,Sleeping Dog
+1,0,-0.1614,Persuadable
+1,0,-0.0177,Sure Thing / Lost Cause
+1,0,0.0085,Sleeping Dog
+1,0,0.0106,Sleeping Dog
+1,0,0.0147,Sleeping Dog
+1,0,0.0227,Sleeping Dog
+1,0,0.0078,Sleeping Dog
+1,0,-0.032,Persuadable
+1,0,0.0123,Sleeping Dog
+1,0,0.0128,Sleeping Dog
+1,0,0.0133,Sleeping Dog
+1,0,-0.0031,Sure Thing / Lost Cause
+0,0,0.0078,Sleeping Dog
+1,0,-0.0501,Persuadable
+1,0,0.0091,Sleeping Dog
+1,0,-0.005,Sure Thing / Lost Cause
+1,0,-0.0008,Sure Thing / Lost Cause
+1,0,-0.0607,Persuadable
+1,0,-0.0477,Persuadable
+1,1,0.0187,Sleeping Dog
+1,0,-0.0121,Sure Thing / Lost Cause
+0,0,0.0108,Sleeping Dog
+0,0,0.011,Sleeping Dog
+1,0,-0.0103,Sure Thing / Lost Cause
+1,0,0.0113,Sleeping Dog
+1,0,0.0022,Sleeping Dog
+1,0,0.0011,Sleeping Dog
+1,0,0.0139,Sleeping Dog
+1,1,0.0208,Sleeping Dog
+1,0,0.0156,Sleeping Dog
+0,0,-0.0488,Persuadable
+1,1,0.0009,Sure Thing / Lost Cause
+1,0,-0.013,Sure Thing / Lost Cause
+1,0,0.0083,Sleeping Dog
+0,0,-0.0495,Persuadable
+1,0,-0.003,Sure Thing / Lost Cause
+1,0,0.0201,Sleeping Dog
+0,1,-0.1252,Persuadable
+1,0,-0.007,Sure Thing / Lost Cause
+1,0,0.0046,Sleeping Dog
+1,0,0.0153,Sleeping Dog
+1,0,-0.007,Sure Thing / Lost Cause
+0,0,0.0128,Sleeping Dog
+1,0,0.0051,Sleeping Dog
+1,0,-0.0245,Persuadable
+0,0,-0.0284,Persuadable
+0,0,0.0006,Sure Thing / Lost Cause
+0,0,0.0083,Sleeping Dog
+0,0,-0.0055,Sure Thing / Lost Cause
+1,0,0.0007,Sure Thing / Lost Cause
+0,0,-0.0019,Sure Thing / Lost Cause
+1,0,-0.0506,Persuadable
+1,0,0.0172,Sleeping Dog
+0,0,-0.0386,Persuadable
+0,0,0.008,Sleeping Dog
+0,0,-0.0383,Persuadable
+0,0,0.0071,Sleeping Dog
+1,0,0.0041,Sleeping Dog
+1,0,-0.0037,Sure Thing / Lost Cause
+1,0,-0.0213,Persuadable
+1,0,-0.0174,Sure Thing / Lost Cause
+1,0,0.0146,Sleeping Dog
+0,0,-0.0155,Sure Thing / Lost Cause
+1,0,0.0133,Sleeping Dog
+0,0,0.0086,Sleeping Dog
+0,0,-0.0283,Persuadable
+1,0,-0.0568,Persuadable
+1,0,0.0003,Sure Thing / Lost Cause
+1,0,-0.0012,Sure Thing / Lost Cause
+1,1,-0.0098,Sure Thing / Lost Cause
+0,0,0.0229,Sleeping Dog
+1,0,0.0034,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+1,0,0.0119,Sleeping Dog
+1,0,0.0111,Sleeping Dog
+0,0,-0.0365,Persuadable
+1,0,0.0073,Sleeping Dog
+0,0,-0.0219,Persuadable
+1,0,-0.03,Persuadable
+1,0,0.0107,Sleeping Dog
+1,0,0.0087,Sleeping Dog
+1,0,0.0045,Sleeping Dog
+1,0,-0.0154,Sure Thing / Lost Cause
+0,0,0.0087,Sleeping Dog
+0,0,0.0095,Sleeping Dog
+1,0,0.0145,Sleeping Dog
+1,0,-0.0003,Sure Thing / Lost Cause
+1,0,-0.01,Sure Thing / Lost Cause
+1,0,0.0074,Sleeping Dog
+1,0,-0.0017,Sure Thing / Lost Cause
+0,0,0.001,Sure Thing / Lost Cause
+1,0,0.0095,Sleeping Dog
+0,0,-0.0755,Persuadable
+1,0,-0.0171,Sure Thing / Lost Cause
+1,0,-0.0428,Persuadable
+0,0,0.0159,Sleeping Dog
+0,0,-0.0661,Persuadable
+1,0,0.0111,Sleeping Dog
+1,0,0.012,Sleeping Dog
+0,0,0.0095,Sleeping Dog
+1,0,-0.0001,Sure Thing / Lost Cause
+1,0,0.0088,Sleeping Dog
+0,0,0.0092,Sleeping Dog
+1,0,-0.0188,Sure Thing / Lost Cause
+1,0,-0.0301,Persuadable
+1,0,0.0205,Sleeping Dog
+0,0,-0.0026,Sure Thing / Lost Cause
+1,0,0.0052,Sleeping Dog
+1,0,0.0114,Sleeping Dog
+1,0,-0.0312,Persuadable
+0,0,0.0039,Sleeping Dog
+1,0,0.0039,Sleeping Dog
+0,0,0.0338,Sleeping Dog
+1,0,0.008,Sleeping Dog
+1,0,0.0083,Sleeping Dog
+1,1,-0.0444,Persuadable
+1,0,-0.0216,Persuadable
+1,0,-0.0237,Persuadable
+1,0,0.0113,Sleeping Dog
+1,0,0.0152,Sleeping Dog
+1,0,0.0137,Sleeping Dog
+1,0,0.011,Sleeping Dog
+1,0,0.0042,Sleeping Dog
+1,0,-0.0026,Sure Thing / Lost Cause
+1,0,-0.0054,Sure Thing / Lost Cause
+1,0,-0.02,Sure Thing / Lost Cause
+1,0,0.008,Sleeping Dog
+1,0,-0.0089,Sure Thing / Lost Cause
+1,0,-0.0058,Sure Thing / Lost Cause
+1,0,0.0016,Sleeping Dog
+1,0,0.0018,Sleeping Dog
+1,1,-0.0372,Persuadable
+1,0,-0.0471,Persuadable
+1,0,-0.0276,Persuadable
+1,0,-0.0185,Sure Thing / Lost Cause
+0,0,-0.0103,Sure Thing / Lost Cause
+1,0,0.0141,Sleeping Dog
+1,0,-0.0005,Sure Thing / Lost Cause
+1,0,-0.0714,Persuadable
+1,0,0.0079,Sleeping Dog
+1,0,-0.0164,Sure Thing / Lost Cause
+1,0,0.0011,Sleeping Dog
+1,0,0.0087,Sleeping Dog
+1,0,0.0071,Sleeping Dog
+1,0,0.0048,Sleeping Dog
+1,0,0.0065,Sleeping Dog
+0,0,0.0104,Sleeping Dog
+1,0,-0.0042,Sure Thing / Lost Cause
+1,0,-0.014,Sure Thing / Lost Cause
+0,0,0.0115,Sleeping Dog
+1,0,-0.0017,Sure Thing / Lost Cause
+1,0,0.034,Sleeping Dog
+0,0,0.021,Sleeping Dog
+0,0,0.0129,Sleeping Dog
+1,0,0.0086,Sleeping Dog
+1,0,0.007,Sleeping Dog
+0,0,-0.0036,Sure Thing / Lost Cause
+1,0,0.0121,Sleeping Dog
+0,0,-0.0248,Persuadable
+1,0,-0.0802,Persuadable
+1,0,-0.0017,Sure Thing / Lost Cause
+0,0,-0.0207,Persuadable
+1,0,-0.0284,Persuadable
+0,0,0.0135,Sleeping Dog
+0,0,0.0017,Sleeping Dog
+1,0,-0.0088,Sure Thing / Lost Cause
+1,0,0.0132,Sleeping Dog
+1,0,0.0118,Sleeping Dog
+0,0,0.0152,Sleeping Dog
+0,0,0.004,Sleeping Dog
+1,0,-0.0195,Sure Thing / Lost Cause
